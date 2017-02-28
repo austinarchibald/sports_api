@@ -35,6 +35,7 @@ describe SportsApi::Fetcher::Score::NCB do
         it { expect(event.competitors.first.location).to eq('Auburn') }
         it { expect(event.competitors.first.conference_id).to eq('23') }
         it { expect(event.competitors.first.is_active).to eq(true) }
+        it { expect(event.notes).to eq("ATLANTIC SUN MEN'S CHAMPIONSHIP - QUARTERFINAL")}
       end
     end
   end

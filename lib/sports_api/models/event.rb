@@ -21,7 +21,8 @@ class SportsApi::Model::Event
                 :channel,
                 :location,
                 :over_under,
-                :neutral
+                :neutral,
+                :notes
 
   def score
     @score ||= competitors.map { |c| c.score }.join(' - ')
