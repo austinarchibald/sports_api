@@ -11,7 +11,11 @@ module SportsApi::Fetcher
         if response.status == 200
           JSON.parse(response.body)
         else
-          raise ArgumentError, "invalid URL: #{url}"
+          begin
+            raise ArgumentError, "invalid URL: #{url}?#{params.to_query}"
+          rescue ArgumentError => e
+            puts e
+          end
         end
       end
     end
@@ -22,7 +26,7 @@ module SportsApi::Fetcher
       end
 
       def domain
-        'espn.go.com'
+        'espn.com'
       end
 
       def get(path, params)

@@ -23,7 +23,20 @@ class SportsApi::Fetcher::Score::NCB < SportsApi::Fetcher::Score
   end
 
   def json
-    @json ||= get('basketball', 'mens-college-basketball', dates: date.to_s.gsub(/[^\d]+/, '').to_i, limit: 200, groups: 100)
+    @json ||= get('basketball', 'mens-college-basketball', dates: date.to_s.gsub(/[^\d]+/, '').to_i, limit: 300, groups: 50)
+    # change groups to 100 for Tourney Time
     # Note: Behavior of NCB api slightly different than other sports. It returns null for any date < Nov 1 2016
   end
 end
+
+# CBI
+# http://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/scoreboard?lang=en&region=us&calendartype=blacklist&limit=300&dates=20170314&tz=America%2FNew_York&groups=55
+
+# CIT
+# http://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/scoreboard?lang=en&region=us&calendartype=blacklist&limit=300&dates=20170314&tz=America%2FNew_York&groups=56
+
+# NIT
+# http://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/scoreboard?lang=en&region=us&calendartype=blacklist&limit=300&dates=20170314&tz=America%2FNew_York&groups=50
+
+# NCAA
+# http://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/scoreboard?lang=en&region=us&calendartype=blacklist&limit=300&dates=20170314&tz=America%2FNew_York&groups=100

@@ -1,0 +1,3763 @@
+{
+  "leagues": [
+    {
+      "id": "14",
+      "uid": "s:1~l:14",
+      "name": "NCAA Men Baseball",
+      "abbreviation": "CBASE",
+      "slug": "college-baseball",
+      "calendarType": "day",
+      "calendarIsWhitelist": true,
+      "calendarStartDate": "2016-07-05T04:00Z",
+      "calendarEndDate": "2017-06-09T03:23Z",
+      "calendar": [
+        "2017-02-16T08:00Z",
+        "2017-02-17T08:00Z",
+        "2017-02-18T08:00Z",
+        "2017-02-19T08:00Z",
+        "2017-02-20T08:00Z",
+        "2017-02-21T08:00Z",
+        "2017-02-22T08:00Z",
+        "2017-02-23T08:00Z",
+        "2017-02-24T08:00Z",
+        "2017-02-25T08:00Z",
+        "2017-02-26T08:00Z",
+        "2017-02-27T08:00Z",
+        "2017-02-28T08:00Z",
+        "2017-03-01T08:00Z",
+        "2017-03-02T08:00Z",
+        "2017-03-03T08:00Z",
+        "2017-03-04T08:00Z",
+        "2017-03-05T08:00Z",
+        "2017-03-06T08:00Z",
+        "2017-03-07T08:00Z",
+        "2017-03-08T08:00Z",
+        "2017-03-09T08:00Z",
+        "2017-03-10T08:00Z",
+        "2017-03-11T08:00Z",
+        "2017-03-12T08:00Z",
+        "2017-03-13T07:00Z",
+        "2017-03-14T07:00Z",
+        "2017-03-15T07:00Z",
+        "2017-03-16T07:00Z",
+        "2017-03-17T07:00Z",
+        "2017-03-18T07:00Z",
+        "2017-03-19T07:00Z",
+        "2017-03-21T07:00Z",
+        "2017-03-22T07:00Z",
+        "2017-03-23T07:00Z",
+        "2017-03-24T07:00Z",
+        "2017-03-25T07:00Z",
+        "2017-03-26T07:00Z",
+        "2017-03-28T07:00Z",
+        "2017-03-29T07:00Z",
+        "2017-03-30T07:00Z",
+        "2017-03-31T07:00Z",
+        "2017-04-01T07:00Z",
+        "2017-04-02T07:00Z",
+        "2017-04-04T07:00Z",
+        "2017-04-05T07:00Z",
+        "2017-04-06T07:00Z",
+        "2017-04-07T07:00Z",
+        "2017-04-08T07:00Z",
+        "2017-04-09T07:00Z",
+        "2017-04-11T07:00Z",
+        "2017-04-12T07:00Z",
+        "2017-04-13T07:00Z",
+        "2017-04-14T07:00Z",
+        "2017-04-15T07:00Z",
+        "2017-04-16T07:00Z",
+        "2017-04-18T07:00Z",
+        "2017-04-19T07:00Z",
+        "2017-04-20T07:00Z",
+        "2017-04-21T07:00Z",
+        "2017-04-22T07:00Z",
+        "2017-04-23T07:00Z",
+        "2017-04-25T07:00Z",
+        "2017-04-26T07:00Z",
+        "2017-04-27T07:00Z",
+        "2017-04-28T07:00Z",
+        "2017-04-29T07:00Z",
+        "2017-04-30T07:00Z",
+        "2017-05-02T07:00Z",
+        "2017-05-03T07:00Z",
+        "2017-05-04T07:00Z",
+        "2017-05-05T07:00Z",
+        "2017-05-06T07:00Z",
+        "2017-05-07T07:00Z",
+        "2017-05-09T07:00Z",
+        "2017-05-10T07:00Z",
+        "2017-05-11T07:00Z",
+        "2017-05-12T07:00Z",
+        "2017-05-13T07:00Z",
+        "2017-05-14T07:00Z",
+        "2017-05-16T07:00Z",
+        "2017-05-18T07:00Z",
+        "2017-05-19T07:00Z",
+        "2017-05-20T07:00Z",
+        "2017-05-21T07:00Z"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "370781144",
+      "uid": "s:1~l:14~e:370781144",
+      "date": "2017-03-19T16:00Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370781144",
+          "uid": "s:1~l:14~e:370781144~c:370781144",
+          "date": "2017-03-19T16:00Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "144",
+              "uid": "s:1~l:14~t:144",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "144",
+                "uid": "s:1~l:14~t:144",
+                "location": "Louisiana-Lafayette",
+                "name": "Ragin' Cajuns",
+                "abbreviation": "ULL",
+                "displayName": "Ragin' Cajuns",
+                "shortDisplayName": "Ragin' Cajuns",
+                "color": "CE2842",
+                "isActive": true,
+                "links": []
+              },
+              "score": "4",
+              "linescores": [
+                {
+                  "value": 4.0
+                }
+              ],
+              "winner": true
+            },
+            {
+              "id": "271",
+              "uid": "s:1~l:14~t:271",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "271",
+                "uid": "s:1~l:14~t:271",
+                "location": "Appalachian State",
+                "name": "Mountaineers",
+                "abbreviation": "APST",
+                "displayName": "Mountaineers",
+                "shortDisplayName": "Mountaineers",
+                "color": "000000",
+                "isActive": true,
+                "links": []
+              },
+              "score": "3",
+              "linescores": [
+                {
+                  "value": 3.0
+                }
+              ],
+              "winner": false
+            }
+          ],
+          "status": {
+            "period": 9,
+            "type": {
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "state": "post",
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "shortDetail": "Final",
+              "altDetail": "Final"
+            }
+          },
+          "broadcasts": [],
+          "startDate": "2017-03-19T16:00Z",
+          "geoBroadcasts": []
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370781144",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370781144",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 9,
+        "type": {
+          "id": "3",
+          "name": "STATUS_FINAL",
+          "state": "post",
+          "completed": true,
+          "description": "Final",
+          "detail": "Final",
+          "shortDetail": "Final",
+          "altDetail": "Final"
+        }
+      }
+    },
+    {
+      "id": "370781307",
+      "uid": "s:1~l:14~e:370781307",
+      "date": "2017-03-19T16:00Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370781307",
+          "uid": "s:1~l:14~e:370781307~c:370781307",
+          "date": "2017-03-19T16:00Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "307",
+              "uid": "s:1~l:14~t:307",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "307",
+                "uid": "s:1~l:14~t:307",
+                "location": "Kennesaw State",
+                "name": "Owls",
+                "abbreviation": "KSU",
+                "displayName": "Owls",
+                "shortDisplayName": "Owls",
+                "isActive": true,
+                "links": []
+              },
+              "score": "4",
+              "linescores": [
+                {
+                  "value": 4.0
+                }
+              ],
+              "winner": false
+            },
+            {
+              "id": "112",
+              "uid": "s:1~l:14~t:112",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "112",
+                "uid": "s:1~l:14~t:112",
+                "location": "Oklahoma",
+                "name": "Sooners",
+                "abbreviation": "OKLA",
+                "displayName": "Sooners",
+                "shortDisplayName": "Sooners",
+                "color": "7B0000",
+                "isActive": true,
+                "links": []
+              },
+              "score": "14",
+              "linescores": [
+                {
+                  "value": 14.0
+                }
+              ],
+              "winner": true
+            }
+          ],
+          "status": {
+            "period": 9,
+            "type": {
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "state": "post",
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "shortDetail": "Final",
+              "altDetail": "Final"
+            }
+          },
+          "broadcasts": [],
+          "startDate": "2017-03-19T16:00Z",
+          "geoBroadcasts": []
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370781307",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370781307",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 9,
+        "type": {
+          "id": "3",
+          "name": "STATUS_FINAL",
+          "state": "post",
+          "completed": true,
+          "description": "Final",
+          "detail": "Final",
+          "shortDetail": "Final",
+          "altDetail": "Final"
+        }
+      }
+    },
+    {
+      "id": "370782089",
+      "uid": "s:1~l:14~e:370782089",
+      "date": "2017-03-19T16:00Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370782089",
+          "uid": "s:1~l:14~e:370782089~c:370782089",
+          "date": "2017-03-19T16:00Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "89",
+              "uid": "s:1~l:14~t:89",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "89",
+                "uid": "s:1~l:14~t:89",
+                "location": "Michigan",
+                "name": "Wolverines",
+                "abbreviation": "MICH",
+                "displayName": "Wolverines",
+                "shortDisplayName": "Wolverines",
+                "color": "292942",
+                "isActive": true,
+                "links": []
+              },
+              "score": "7",
+              "linescores": [
+                {
+                  "value": 7.0
+                }
+              ],
+              "winner": true
+            },
+            {
+              "id": "408",
+              "uid": "s:1~l:14~t:408",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "408",
+                "uid": "s:1~l:14~t:408",
+                "location": "Northern Illinois",
+                "name": "Huskies",
+                "abbreviation": "NIU",
+                "displayName": "Huskies",
+                "shortDisplayName": "Huskies",
+                "color": "e73139",
+                "isActive": true,
+                "links": []
+              },
+              "score": "4",
+              "linescores": [
+                {
+                  "value": 4.0
+                }
+              ],
+              "winner": false
+            }
+          ],
+          "status": {
+            "period": 9,
+            "type": {
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "state": "post",
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "shortDetail": "Final",
+              "altDetail": "Final"
+            }
+          },
+          "broadcasts": [],
+          "startDate": "2017-03-19T16:00Z",
+          "geoBroadcasts": []
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370782089",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370782089",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 9,
+        "type": {
+          "id": "3",
+          "name": "STATUS_FINAL",
+          "state": "post",
+          "completed": true,
+          "description": "Final",
+          "detail": "Final",
+          "shortDetail": "Final",
+          "altDetail": "Final"
+        }
+      }
+    },
+    {
+      "id": "370781121",
+      "uid": "s:1~l:14~e:370781121",
+      "date": "2017-03-19T16:05Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370781121",
+          "uid": "s:1~l:14~e:370781121~c:370781121",
+          "date": "2017-03-19T16:05Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "121",
+              "uid": "s:1~l:14~t:121",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "121",
+                "uid": "s:1~l:14~t:121",
+                "location": "Baylor",
+                "name": "Bears",
+                "abbreviation": "BAY",
+                "displayName": "Bears",
+                "shortDisplayName": "Bears",
+                "color": "00844A",
+                "isActive": true,
+                "links": []
+              },
+              "score": "5",
+              "linescores": [
+                {
+                  "value": -1.0
+                }
+              ],
+              "winner": true
+            },
+            {
+              "id": "136",
+              "uid": "s:1~l:14~t:136",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "136",
+                "uid": "s:1~l:14~t:136",
+                "location": "West Virginia",
+                "name": "Mountaineers",
+                "abbreviation": "WVU",
+                "displayName": "Mountaineers",
+                "shortDisplayName": "Mountaineers",
+                "color": "395AB5",
+                "isActive": true,
+                "links": []
+              },
+              "score": "1",
+              "linescores": [
+                {
+                  "value": 1.0
+                }
+              ],
+              "winner": false
+            }
+          ],
+          "status": {
+            "period": 9,
+            "type": {
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "state": "post",
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "shortDetail": "Final",
+              "altDetail": "Final"
+            }
+          },
+          "broadcasts": [],
+          "startDate": "2017-03-19T16:05Z",
+          "geoBroadcasts": []
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370781121",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370781121",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 9,
+        "type": {
+          "id": "3",
+          "name": "STATUS_FINAL",
+          "state": "post",
+          "completed": true,
+          "description": "Final",
+          "detail": "Final",
+          "shortDetail": "Final",
+          "altDetail": "Final"
+        }
+      }
+    },
+    {
+      "id": "370781148",
+      "uid": "s:1~l:14~e:370781148",
+      "date": "2017-03-19T17:00Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370781148",
+          "uid": "s:1~l:14~e:370781148~c:370781148",
+          "date": "2017-03-19T17:00Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "148",
+              "uid": "s:1~l:14~t:148",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "148",
+                "uid": "s:1~l:14~t:148",
+                "location": "Alabama",
+                "name": "Crimson Tide",
+                "abbreviation": "ALA",
+                "displayName": "Crimson Tide",
+                "shortDisplayName": "Crimson Tide",
+                "color": "A42D47",
+                "isActive": true,
+                "links": []
+              },
+              "score": "5",
+              "linescores": [
+                {
+                  "value": 2.0
+                },
+                {
+                  "value": 1.0
+                },
+                {
+                  "value": 1.0
+                },
+                {
+                  "value": 1.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                }
+              ],
+              "winner": false,
+              "hits": 9,
+              "errors": 4
+            },
+            {
+              "id": "91",
+              "uid": "s:1~l:14~t:91",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "91",
+                "uid": "s:1~l:14~t:91",
+                "location": "Missouri",
+                "name": "Tigers",
+                "abbreviation": "MIZZ",
+                "displayName": "Tigers",
+                "shortDisplayName": "Tigers",
+                "color": "000000",
+                "isActive": true,
+                "links": []
+              },
+              "score": "9",
+              "linescores": [
+                {
+                  "value": 3.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 1.0
+                },
+                {
+                  "value": 1.0
+                },
+                {
+                  "value": 3.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 1.0
+                }
+              ],
+              "winner": true,
+              "hits": 12,
+              "errors": 1
+            }
+          ],
+          "status": {
+            "period": 9,
+            "type": {
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "state": "post",
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "shortDetail": "Final",
+              "altDetail": "Final"
+            }
+          },
+          "broadcasts": [
+            {
+              "market": "national",
+              "names": [
+                "SECN"
+              ]
+            }
+          ],
+          "startDate": "2017-03-19T17:00Z",
+          "geoBroadcasts": [
+            {
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              },
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "SECN"
+              },
+              "lang": "en",
+              "region": "us"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370781148",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "teamstats",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/matchup?gameId=370781148",
+          "text": "Team Stats",
+          "shortText": "Team Stats",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "boxscore",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/boxscore?gameId=370781148",
+          "text": "Box Score",
+          "shortText": "Box Score",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370781148",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 9,
+        "type": {
+          "id": "3",
+          "name": "STATUS_FINAL",
+          "state": "post",
+          "completed": true,
+          "description": "Final",
+          "detail": "Final",
+          "shortDetail": "Final",
+          "altDetail": "Final"
+        }
+      }
+    },
+    {
+      "id": "370781077",
+      "uid": "s:1~l:14~e:370781077",
+      "date": "2017-03-19T17:00Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370781077",
+          "uid": "s:1~l:14~e:370781077~c:370781077",
+          "date": "2017-03-19T17:00Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "77",
+              "uid": "s:1~l:14~t:77",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "77",
+                "uid": "s:1~l:14~t:77",
+                "location": "Georgia Tech",
+                "name": "Yellow Jackets",
+                "abbreviation": "GT",
+                "displayName": "Yellow Jackets",
+                "shortDisplayName": "Yellow Jackets",
+                "color": "000000",
+                "isActive": true,
+                "links": []
+              },
+              "score": "4",
+              "linescores": [
+                {
+                  "value": 4.0
+                }
+              ],
+              "winner": false
+            },
+            {
+              "id": "96",
+              "uid": "s:1~l:14~t:96",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "96",
+                "uid": "s:1~l:14~t:96",
+                "location": "North Carolina",
+                "name": "Tar Heels",
+                "abbreviation": "UNC",
+                "displayName": "Tar Heels",
+                "shortDisplayName": "Tar Heels",
+                "color": "002942",
+                "isActive": true,
+                "links": []
+              },
+              "score": "7",
+              "linescores": [
+                {
+                  "value": 7.0
+                }
+              ],
+              "winner": true
+            }
+          ],
+          "status": {
+            "period": 9,
+            "type": {
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "state": "post",
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "shortDetail": "Final",
+              "altDetail": "Final"
+            }
+          },
+          "broadcasts": [],
+          "startDate": "2017-03-19T17:00Z",
+          "geoBroadcasts": []
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370781077",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370781077",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 9,
+        "type": {
+          "id": "3",
+          "name": "STATUS_FINAL",
+          "state": "post",
+          "completed": true,
+          "description": "Final",
+          "detail": "Final",
+          "shortDetail": "Final",
+          "altDetail": "Final"
+        }
+      }
+    },
+    {
+      "id": "370781083",
+      "uid": "s:1~l:14~e:370781083",
+      "date": "2017-03-19T17:00Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370781083",
+          "uid": "s:1~l:14~e:370781083~c:370781083",
+          "date": "2017-03-19T17:00Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "83",
+              "uid": "s:1~l:14~t:83",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "83",
+                "uid": "s:1~l:14~t:83",
+                "location": "Louisville",
+                "name": "Cardinals",
+                "abbreviation": "LOU",
+                "displayName": "Cardinals",
+                "shortDisplayName": "Cardinals",
+                "color": "DE0018",
+                "isActive": true,
+                "links": []
+              },
+              "score": "5",
+              "linescores": [
+                {
+                  "value": -1.0
+                }
+              ],
+              "winner": true
+            },
+            {
+              "id": "86",
+              "uid": "s:1~l:14~t:86",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "86",
+                "uid": "s:1~l:14~t:86",
+                "location": "Boston College",
+                "name": "Eagles",
+                "abbreviation": "BC",
+                "displayName": "Eagles",
+                "shortDisplayName": "Eagles",
+                "color": "111111",
+                "isActive": true,
+                "links": []
+              },
+              "score": "3",
+              "linescores": [
+                {
+                  "value": 3.0
+                }
+              ],
+              "winner": false
+            }
+          ],
+          "status": {
+            "period": 9,
+            "type": {
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "state": "post",
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "shortDetail": "Final",
+              "altDetail": "Final"
+            }
+          },
+          "broadcasts": [],
+          "startDate": "2017-03-19T17:00Z",
+          "geoBroadcasts": []
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370781083",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370781083",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 9,
+        "type": {
+          "id": "3",
+          "name": "STATUS_FINAL",
+          "state": "post",
+          "completed": true,
+          "description": "Final",
+          "detail": "Final",
+          "shortDetail": "Final",
+          "altDetail": "Final"
+        }
+      }
+    },
+    {
+      "id": "370781094",
+      "uid": "s:1~l:14~e:370781094",
+      "date": "2017-03-19T17:00Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370781094",
+          "uid": "s:1~l:14~e:370781094~c:370781094",
+          "date": "2017-03-19T17:00Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "94",
+              "uid": "s:1~l:14~t:94",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "94",
+                "uid": "s:1~l:14~t:94",
+                "location": "East Carolina",
+                "name": "Pirates",
+                "abbreviation": "ECU",
+                "displayName": "Pirates",
+                "shortDisplayName": "Pirates",
+                "color": "4B1869",
+                "isActive": true,
+                "links": []
+              },
+              "score": "2",
+              "linescores": [
+                {
+                  "value": 2.0
+                }
+              ],
+              "winner": false
+            },
+            {
+              "id": "295",
+              "uid": "s:1~l:14~t:295",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "295",
+                "uid": "s:1~l:14~t:295",
+                "location": "Mercer",
+                "name": "Bears",
+                "abbreviation": "MERC",
+                "displayName": "Bears",
+                "shortDisplayName": "Bears",
+                "color": "000000",
+                "isActive": true,
+                "links": []
+              },
+              "score": "8",
+              "linescores": [
+                {
+                  "value": 8.0
+                }
+              ],
+              "winner": true
+            }
+          ],
+          "status": {
+            "period": 9,
+            "type": {
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "state": "post",
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "shortDetail": "Final",
+              "altDetail": "Final"
+            }
+          },
+          "broadcasts": [],
+          "startDate": "2017-03-19T17:00Z",
+          "geoBroadcasts": []
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370781094",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370781094",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 9,
+        "type": {
+          "id": "3",
+          "name": "STATUS_FINAL",
+          "state": "post",
+          "completed": true,
+          "description": "Final",
+          "detail": "Final",
+          "shortDetail": "Final",
+          "altDetail": "Final"
+        }
+      }
+    },
+    {
+      "id": "370781117",
+      "uid": "s:1~l:14~e:370781117",
+      "date": "2017-03-19T17:00Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370781117",
+          "uid": "s:1~l:14~e:370781117~c:370781117",
+          "date": "2017-03-19T17:00Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "117",
+              "uid": "s:1~l:14~t:117",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "117",
+                "uid": "s:1~l:14~t:117",
+                "location": "Clemson",
+                "name": "Tigers",
+                "abbreviation": "CLEM",
+                "displayName": "Tigers",
+                "shortDisplayName": "Tigers",
+                "color": "F35B0F",
+                "isActive": true,
+                "links": []
+              },
+              "score": "12",
+              "linescores": [
+                {
+                  "value": -1.0
+                }
+              ],
+              "winner": true
+            },
+            {
+              "id": "131",
+              "uid": "s:1~l:14~t:131",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "131",
+                "uid": "s:1~l:14~t:131",
+                "location": "Virginia",
+                "name": "Cavaliers",
+                "abbreviation": "UVA",
+                "displayName": "Cavaliers",
+                "shortDisplayName": "Cavaliers",
+                "color": "000066",
+                "isActive": true,
+                "links": []
+              },
+              "score": "1",
+              "linescores": [
+                {
+                  "value": 1.0
+                }
+              ],
+              "winner": false
+            }
+          ],
+          "status": {
+            "period": 9,
+            "type": {
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "state": "post",
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "shortDetail": "Final",
+              "altDetail": "Final"
+            }
+          },
+          "broadcasts": [],
+          "startDate": "2017-03-19T17:00Z",
+          "geoBroadcasts": []
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370781117",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370781117",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 9,
+        "type": {
+          "id": "3",
+          "name": "STATUS_FINAL",
+          "state": "post",
+          "completed": true,
+          "description": "Final",
+          "detail": "Final",
+          "shortDetail": "Final",
+          "altDetail": "Final"
+        }
+      }
+    },
+    {
+      "id": "370781132",
+      "uid": "s:1~l:14~e:370781132",
+      "date": "2017-03-19T17:00Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370781132",
+          "uid": "s:1~l:14~e:370781132~c:370781132",
+          "date": "2017-03-19T17:00Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "132",
+              "uid": "s:1~l:14~t:132",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "132",
+                "uid": "s:1~l:14~t:132",
+                "location": "Virginia Tech",
+                "name": "Hokies",
+                "abbreviation": "VT",
+                "displayName": "Hokies",
+                "shortDisplayName": "Hokies",
+                "color": "7B2129",
+                "isActive": true,
+                "links": []
+              },
+              "score": "17",
+              "linescores": [
+                {
+                  "value": -1.0
+                }
+              ],
+              "winner": true
+            },
+            {
+              "id": "72",
+              "uid": "s:1~l:14~t:72",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "72",
+                "uid": "s:1~l:14~t:72",
+                "location": "Florida State",
+                "name": "Seminoles",
+                "abbreviation": "FSU",
+                "displayName": "Seminoles",
+                "shortDisplayName": "Seminoles",
+                "color": "B72931",
+                "isActive": true,
+                "links": []
+              },
+              "score": "0",
+              "linescores": [
+                {
+                  "value": 0.0
+                }
+              ],
+              "winner": false
+            }
+          ],
+          "status": {
+            "period": 9,
+            "type": {
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "state": "post",
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "shortDetail": "Final",
+              "altDetail": "Final"
+            }
+          },
+          "broadcasts": [],
+          "startDate": "2017-03-19T17:00Z",
+          "geoBroadcasts": []
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370781132",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370781132",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 9,
+        "type": {
+          "id": "3",
+          "name": "STATUS_FINAL",
+          "state": "post",
+          "completed": true,
+          "description": "Final",
+          "detail": "Final",
+          "shortDetail": "Final",
+          "altDetail": "Final"
+        }
+      }
+    },
+    {
+      "id": "370781126",
+      "uid": "s:1~l:14~e:370781126",
+      "date": "2017-03-19T18:00Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370781126",
+          "uid": "s:1~l:14~e:370781126~c:370781126",
+          "date": "2017-03-19T18:00Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "126",
+              "uid": "s:1~l:14~t:126",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "126",
+                "uid": "s:1~l:14~t:126",
+                "location": "Texas",
+                "name": "Longhorns",
+                "abbreviation": "TEX",
+                "displayName": "Longhorns",
+                "shortDisplayName": "Longhorns",
+                "color": "EF7321",
+                "isActive": true,
+                "links": []
+              },
+              "score": "5",
+              "linescores": [
+                {
+                  "value": 2.0
+                },
+                {
+                  "value": 1.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 2.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                }
+              ],
+              "winner": false
+            },
+            {
+              "id": "201",
+              "uid": "s:1~l:14~t:201",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "201",
+                "uid": "s:1~l:14~t:201",
+                "location": "Texas Tech",
+                "name": "Red Raiders",
+                "abbreviation": "TTU",
+                "displayName": "Red Raiders",
+                "shortDisplayName": "Red Raiders",
+                "color": "D60039",
+                "isActive": true,
+                "links": []
+              },
+              "score": "8",
+              "linescores": [
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 1.0
+                },
+                {
+                  "value": 2.0
+                },
+                {
+                  "value": 4.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 1.0
+                },
+                {
+                  "value": 0.0
+                }
+              ],
+              "winner": true
+            }
+          ],
+          "status": {
+            "period": 9,
+            "type": {
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "state": "post",
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "shortDetail": "Final",
+              "altDetail": "Final"
+            }
+          },
+          "broadcasts": [
+            {
+              "market": "national",
+              "names": [
+                "LHN"
+              ]
+            }
+          ],
+          "startDate": "2017-03-19T18:00Z",
+          "geoBroadcasts": [
+            {
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              },
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "LHN"
+              },
+              "lang": "en",
+              "region": "us"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370781126",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370781126",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 9,
+        "type": {
+          "id": "3",
+          "name": "STATUS_FINAL",
+          "state": "post",
+          "completed": true,
+          "description": "Final",
+          "detail": "Final",
+          "shortDetail": "Final",
+          "altDetail": "Final"
+        }
+      }
+    },
+    {
+      "id": "370781199",
+      "uid": "s:1~l:14~e:370781199",
+      "date": "2017-03-19T18:00Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370781199",
+          "uid": "s:1~l:14~e:370781199~c:370781199",
+          "date": "2017-03-19T18:00Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "199",
+              "uid": "s:1~l:14~t:199",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "199",
+                "uid": "s:1~l:14~t:199",
+                "location": "Tennessee",
+                "name": "Volunteers",
+                "abbreviation": "TENN",
+                "displayName": "Volunteers",
+                "shortDisplayName": "Volunteers",
+                "color": "EE9627",
+                "isActive": true,
+                "links": []
+              },
+              "score": "2",
+              "linescores": [
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 1.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 1.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                }
+              ],
+              "winner": false,
+              "hits": 6,
+              "errors": 1
+            },
+            {
+              "id": "193",
+              "uid": "s:1~l:14~t:193",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "193",
+                "uid": "s:1~l:14~t:193",
+                "location": "South Carolina",
+                "name": "Gamecocks",
+                "abbreviation": "SC",
+                "displayName": "Gamecocks",
+                "shortDisplayName": "Gamecocks",
+                "color": "000000",
+                "isActive": true,
+                "links": []
+              },
+              "score": "10",
+              "linescores": [
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 2.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 7.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 1.0
+                },
+                {
+                  "value": 0.0
+                }
+              ],
+              "winner": true,
+              "hits": 14,
+              "errors": 2
+            }
+          ],
+          "status": {
+            "period": 9,
+            "type": {
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "state": "post",
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "shortDetail": "Final",
+              "altDetail": "Final"
+            }
+          },
+          "broadcasts": [
+            {
+              "market": "national",
+              "names": [
+                "ESPNU"
+              ]
+            }
+          ],
+          "startDate": "2017-03-19T18:00Z",
+          "geoBroadcasts": [
+            {
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              },
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "ESPNU"
+              },
+              "lang": "en",
+              "region": "us"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370781199",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "teamstats",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/matchup?gameId=370781199",
+          "text": "Team Stats",
+          "shortText": "Team Stats",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "boxscore",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/boxscore?gameId=370781199",
+          "text": "Box Score",
+          "shortText": "Box Score",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370781199",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 9,
+        "type": {
+          "id": "3",
+          "name": "STATUS_FINAL",
+          "state": "post",
+          "completed": true,
+          "description": "Final",
+          "detail": "Final",
+          "shortDetail": "Final",
+          "altDetail": "Final"
+        }
+      }
+    },
+    {
+      "id": "370781055",
+      "uid": "s:1~l:14~e:370781055",
+      "date": "2017-03-19T18:00Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370781055",
+          "uid": "s:1~l:14~e:370781055~c:370781055",
+          "date": "2017-03-19T18:00Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "55",
+              "uid": "s:1~l:14~t:55",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "55",
+                "uid": "s:1~l:14~t:55",
+                "location": "Auburn",
+                "name": "Tigers",
+                "abbreviation": "AUB",
+                "displayName": "Tigers",
+                "shortDisplayName": "Tigers",
+                "color": "182942",
+                "isActive": true,
+                "links": []
+              },
+              "score": "6",
+              "linescores": [
+                {
+                  "value": 1.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 3.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 1.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 1.0
+                }
+              ],
+              "winner": true,
+              "hits": 10,
+              "errors": 0
+            },
+            {
+              "id": "75",
+              "uid": "s:1~l:14~t:75",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "75",
+                "uid": "s:1~l:14~t:75",
+                "location": "Florida",
+                "name": "Gators",
+                "abbreviation": "FLA",
+                "displayName": "Gators",
+                "shortDisplayName": "Gators",
+                "color": "2A42CE",
+                "isActive": true,
+                "links": []
+              },
+              "score": "5",
+              "linescores": [
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 4.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 1.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                }
+              ],
+              "winner": false,
+              "hits": 8,
+              "errors": 3
+            }
+          ],
+          "status": {
+            "period": 9,
+            "type": {
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "state": "post",
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "shortDetail": "Final",
+              "altDetail": "Final"
+            }
+          },
+          "broadcasts": [
+            {
+              "market": "national",
+              "names": [
+                "SECN+"
+              ]
+            }
+          ],
+          "startDate": "2017-03-19T18:00Z",
+          "geoBroadcasts": [
+            {
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              },
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "SECN+"
+              },
+              "lang": "en",
+              "region": "us"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370781055",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "teamstats",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/matchup?gameId=370781055",
+          "text": "Team Stats",
+          "shortText": "Team Stats",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "boxscore",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/boxscore?gameId=370781055",
+          "text": "Box Score",
+          "shortText": "Box Score",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370781055",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 9,
+        "type": {
+          "id": "3",
+          "name": "STATUS_FINAL",
+          "state": "post",
+          "completed": true,
+          "description": "Final",
+          "detail": "Final",
+          "shortDetail": "Final",
+          "altDetail": "Final"
+        }
+      }
+    },
+    {
+      "id": "370781058",
+      "uid": "s:1~l:14~e:370781058",
+      "date": "2017-03-19T18:00Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370781058",
+          "uid": "s:1~l:14~e:370781058~c:370781058",
+          "date": "2017-03-19T18:00Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "58",
+              "uid": "s:1~l:14~t:58",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "58",
+                "uid": "s:1~l:14~t:58",
+                "location": "Arkansas",
+                "name": "Razorbacks",
+                "abbreviation": "ARK",
+                "displayName": "Razorbacks",
+                "shortDisplayName": "Razorbacks",
+                "color": "9C1831",
+                "isActive": true,
+                "links": []
+              },
+              "score": "6",
+              "linescores": [
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 3.0
+                },
+                {
+                  "value": 1.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 1.0
+                },
+                {
+                  "value": 1.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": -1.0
+                }
+              ],
+              "winner": true,
+              "hits": 11,
+              "errors": 0
+            },
+            {
+              "id": "150",
+              "uid": "s:1~l:14~t:150",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "150",
+                "uid": "s:1~l:14~t:150",
+                "location": "Mississippi State",
+                "name": "Bulldogs",
+                "abbreviation": "MSST",
+                "displayName": "Bulldogs",
+                "shortDisplayName": "Bulldogs",
+                "color": "531122",
+                "isActive": true,
+                "links": []
+              },
+              "score": "1",
+              "linescores": [
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 1.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                }
+              ],
+              "winner": false,
+              "hits": 6,
+              "errors": 0
+            }
+          ],
+          "status": {
+            "period": 9,
+            "type": {
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "state": "post",
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "shortDetail": "Final",
+              "altDetail": "Final"
+            }
+          },
+          "broadcasts": [
+            {
+              "market": "national",
+              "names": [
+                "SECN+"
+              ]
+            }
+          ],
+          "startDate": "2017-03-19T18:00Z",
+          "geoBroadcasts": [
+            {
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              },
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "SECN+"
+              },
+              "lang": "en",
+              "region": "us"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370781058",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "teamstats",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/matchup?gameId=370781058",
+          "text": "Team Stats",
+          "shortText": "Team Stats",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "boxscore",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/boxscore?gameId=370781058",
+          "text": "Box Score",
+          "shortText": "Box Score",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370781058",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 9,
+        "type": {
+          "id": "3",
+          "name": "STATUS_FINAL",
+          "state": "post",
+          "completed": true,
+          "description": "Final",
+          "detail": "Final",
+          "shortDetail": "Final",
+          "altDetail": "Final"
+        }
+      }
+    },
+    {
+      "id": "370781085",
+      "uid": "s:1~l:14~e:370781085",
+      "date": "2017-03-19T18:00Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370781085",
+          "uid": "s:1~l:14~e:370781085~c:370781085",
+          "date": "2017-03-19T18:00Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "85",
+              "uid": "s:1~l:14~t:85",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "85",
+                "uid": "s:1~l:14~t:85",
+                "location": "LSU",
+                "name": "Tigers",
+                "abbreviation": "LSU",
+                "displayName": "Tigers",
+                "shortDisplayName": "Tigers",
+                "color": "2B0D57",
+                "isActive": true,
+                "links": []
+              },
+              "score": "7",
+              "linescores": [
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 1.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 3.0
+                },
+                {
+                  "value": 1.0
+                },
+                {
+                  "value": 2.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": -1.0
+                }
+              ],
+              "winner": true,
+              "hits": 7,
+              "errors": 0
+            },
+            {
+              "id": "78",
+              "uid": "s:1~l:14~t:78",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "78",
+                "uid": "s:1~l:14~t:78",
+                "location": "Georgia",
+                "name": "Bulldogs",
+                "abbreviation": "UGA",
+                "displayName": "Bulldogs",
+                "shortDisplayName": "Bulldogs",
+                "color": "D60022",
+                "isActive": true,
+                "links": []
+              },
+              "score": "6",
+              "linescores": [
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 2.0
+                },
+                {
+                  "value": 1.0
+                },
+                {
+                  "value": 1.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 2.0
+                }
+              ],
+              "winner": false,
+              "hits": 9,
+              "errors": 4
+            }
+          ],
+          "status": {
+            "period": 9,
+            "type": {
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "state": "post",
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "shortDetail": "Final",
+              "altDetail": "Final"
+            }
+          },
+          "broadcasts": [
+            {
+              "market": "national",
+              "names": [
+                "SECN+"
+              ]
+            }
+          ],
+          "startDate": "2017-03-19T18:00Z",
+          "geoBroadcasts": [
+            {
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              },
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "SECN+"
+              },
+              "lang": "en",
+              "region": "us"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370781085",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "teamstats",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/matchup?gameId=370781085",
+          "text": "Team Stats",
+          "shortText": "Team Stats",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "boxscore",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/boxscore?gameId=370781085",
+          "text": "Box Score",
+          "shortText": "Box Score",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370781085",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 9,
+        "type": {
+          "id": "3",
+          "name": "STATUS_FINAL",
+          "state": "post",
+          "completed": true,
+          "description": "Final",
+          "detail": "Final",
+          "shortDetail": "Final",
+          "altDetail": "Final"
+        }
+      }
+    },
+    {
+      "id": "370781123",
+      "uid": "s:1~l:14~e:370781123",
+      "date": "2017-03-19T18:00Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370781123",
+          "uid": "s:1~l:14~e:370781123~c:370781123",
+          "date": "2017-03-19T18:00Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "123",
+              "uid": "s:1~l:14~t:123",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "123",
+                "uid": "s:1~l:14~t:123",
+                "location": "Texas A&M",
+                "name": "Aggies",
+                "abbreviation": "TA&M",
+                "displayName": "Aggies",
+                "shortDisplayName": "Aggies",
+                "color": "6A3333",
+                "isActive": true,
+                "links": []
+              },
+              "score": "7",
+              "linescores": [
+                {
+                  "value": 1.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 3.0
+                },
+                {
+                  "value": 3.0
+                },
+                {
+                  "value": 0.0
+                }
+              ],
+              "winner": false,
+              "hits": 10,
+              "errors": 2
+            },
+            {
+              "id": "82",
+              "uid": "s:1~l:14~t:82",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "82",
+                "uid": "s:1~l:14~t:82",
+                "location": "Kentucky",
+                "name": "Wildcats",
+                "abbreviation": "UK",
+                "displayName": "Wildcats",
+                "shortDisplayName": "Wildcats",
+                "color": "003399",
+                "isActive": true,
+                "links": []
+              },
+              "score": "11",
+              "linescores": [
+                {
+                  "value": 2.0
+                },
+                {
+                  "value": 3.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 1.0
+                },
+                {
+                  "value": 3.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 2.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                }
+              ],
+              "winner": true,
+              "hits": 17,
+              "errors": 0
+            }
+          ],
+          "status": {
+            "period": 9,
+            "type": {
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "state": "post",
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "shortDetail": "Final",
+              "altDetail": "Final"
+            }
+          },
+          "broadcasts": [
+            {
+              "market": "national",
+              "names": [
+                "SECN+"
+              ]
+            }
+          ],
+          "startDate": "2017-03-19T18:00Z",
+          "geoBroadcasts": [
+            {
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              },
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "SECN+"
+              },
+              "lang": "en",
+              "region": "us"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370781123",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "teamstats",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/matchup?gameId=370781123",
+          "text": "Team Stats",
+          "shortText": "Team Stats",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "boxscore",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/boxscore?gameId=370781123",
+          "text": "Box Score",
+          "shortText": "Box Score",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370781123",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 9,
+        "type": {
+          "id": "3",
+          "name": "STATUS_FINAL",
+          "state": "post",
+          "completed": true,
+          "description": "Final",
+          "detail": "Final",
+          "shortDetail": "Final",
+          "altDetail": "Final"
+        }
+      }
+    },
+    {
+      "id": "370781173",
+      "uid": "s:1~l:14~e:370781173",
+      "date": "2017-03-19T18:00Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370781173",
+          "uid": "s:1~l:14~e:370781173~c:370781173",
+          "date": "2017-03-19T18:00Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "173",
+              "uid": "s:1~l:14~t:173",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "173",
+                "uid": "s:1~l:14~t:173",
+                "location": "Louisiana Tech",
+                "name": "Bulldogs",
+                "abbreviation": "LT",
+                "displayName": "Bulldogs",
+                "shortDisplayName": "Bulldogs",
+                "color": "3129E7",
+                "isActive": true,
+                "links": []
+              },
+              "score": "5",
+              "linescores": [
+                {
+                  "value": 5.0
+                }
+              ],
+              "winner": false
+            },
+            {
+              "id": "192",
+              "uid": "s:1~l:14~t:192",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "192",
+                "uid": "s:1~l:14~t:192",
+                "location": "Southern Miss",
+                "name": "Golden Eagles",
+                "abbreviation": "USM",
+                "displayName": "Golden Eagles",
+                "shortDisplayName": "Golden Eagles",
+                "color": "FFAA3C",
+                "isActive": true,
+                "links": []
+              },
+              "score": "8",
+              "linescores": [
+                {
+                  "value": 8.0
+                }
+              ],
+              "winner": true
+            }
+          ],
+          "status": {
+            "period": 9,
+            "type": {
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "state": "post",
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "shortDetail": "Final",
+              "altDetail": "Final"
+            }
+          },
+          "broadcasts": [],
+          "startDate": "2017-03-19T18:00Z",
+          "geoBroadcasts": []
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370781173",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370781173",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 9,
+        "type": {
+          "id": "3",
+          "name": "STATUS_FINAL",
+          "state": "post",
+          "completed": true,
+          "description": "Final",
+          "detail": "Final",
+          "shortDetail": "Final",
+          "altDetail": "Final"
+        }
+      }
+    },
+    {
+      "id": "370781198",
+      "uid": "s:1~l:14~e:370781198",
+      "date": "2017-03-19T18:00Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370781198",
+          "uid": "s:1~l:14~e:370781198~c:370781198",
+          "date": "2017-03-19T18:00Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "198",
+              "uid": "s:1~l:14~t:198",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "198",
+                "uid": "s:1~l:14~t:198",
+                "location": "TCU",
+                "name": "Horned Frogs",
+                "abbreviation": "TCU",
+                "displayName": "Horned Frogs",
+                "shortDisplayName": "Horned Frogs",
+                "color": "201852",
+                "isActive": true,
+                "links": []
+              },
+              "score": "3",
+              "linescores": [
+                {
+                  "value": 3.0
+                }
+              ],
+              "winner": false
+            },
+            {
+              "id": "168",
+              "uid": "s:1~l:14~t:168",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "168",
+                "uid": "s:1~l:14~t:168",
+                "location": "Kansas",
+                "name": "Jayhawks",
+                "abbreviation": "KU",
+                "displayName": "Jayhawks",
+                "shortDisplayName": "Jayhawks",
+                "color": "0337B4",
+                "isActive": true,
+                "links": []
+              },
+              "score": "4",
+              "linescores": [
+                {
+                  "value": 4.0
+                }
+              ],
+              "winner": true
+            }
+          ],
+          "status": {
+            "period": 9,
+            "type": {
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "state": "post",
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "shortDetail": "Final",
+              "altDetail": "Final"
+            }
+          },
+          "broadcasts": [],
+          "startDate": "2017-03-19T18:00Z",
+          "geoBroadcasts": []
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370781198",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370781198",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 9,
+        "type": {
+          "id": "3",
+          "name": "STATUS_FINAL",
+          "state": "post",
+          "completed": true,
+          "description": "Final",
+          "detail": "Final",
+          "shortDetail": "Final",
+          "altDetail": "Final"
+        }
+      }
+    },
+    {
+      "id": "370783089",
+      "uid": "s:1~l:14~e:370783089",
+      "date": "2017-03-19T19:00Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370783089",
+          "uid": "s:1~l:14~e:370783089~c:370783089",
+          "date": "2017-03-19T19:00Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "89",
+              "uid": "s:1~l:14~t:89",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "89",
+                "uid": "s:1~l:14~t:89",
+                "location": "Michigan",
+                "name": "Wolverines",
+                "abbreviation": "MICH",
+                "displayName": "Wolverines",
+                "shortDisplayName": "Wolverines",
+                "color": "292942",
+                "isActive": true,
+                "links": []
+              },
+              "score": "8",
+              "linescores": [
+                {
+                  "value": -1.0
+                }
+              ],
+              "winner": true
+            },
+            {
+              "id": "408",
+              "uid": "s:1~l:14~t:408",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "408",
+                "uid": "s:1~l:14~t:408",
+                "location": "Northern Illinois",
+                "name": "Huskies",
+                "abbreviation": "NIU",
+                "displayName": "Huskies",
+                "shortDisplayName": "Huskies",
+                "color": "e73139",
+                "isActive": true,
+                "links": []
+              },
+              "score": "3",
+              "linescores": [
+                {
+                  "value": 3.0
+                }
+              ],
+              "winner": false
+            }
+          ],
+          "status": {
+            "period": 9,
+            "type": {
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "state": "post",
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "shortDetail": "Final",
+              "altDetail": "Final"
+            }
+          },
+          "broadcasts": [],
+          "startDate": "2017-03-19T19:00Z",
+          "geoBroadcasts": []
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370783089",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370783089",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 9,
+        "type": {
+          "id": "3",
+          "name": "STATUS_FINAL",
+          "state": "post",
+          "completed": true,
+          "description": "Final",
+          "detail": "Final",
+          "shortDetail": "Final",
+          "altDetail": "Final"
+        }
+      }
+    },
+    {
+      "id": "370781092",
+      "uid": "s:1~l:14~e:370781092",
+      "date": "2017-03-19T20:00Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370781092",
+          "uid": "s:1~l:14~e:370781092~c:370781092",
+          "date": "2017-03-19T20:00Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "92",
+              "uid": "s:1~l:14~t:92",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "92",
+                "uid": "s:1~l:14~t:92",
+                "location": "Mississippi",
+                "name": "Rebels",
+                "abbreviation": "MISS",
+                "displayName": "Rebels",
+                "shortDisplayName": "Rebels",
+                "color": "101894",
+                "isActive": true,
+                "links": []
+              },
+              "score": "10",
+              "linescores": [
+                {
+                  "value": 2.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 1.0
+                },
+                {
+                  "value": 3.0
+                },
+                {
+                  "value": 1.0
+                },
+                {
+                  "value": 3.0
+                },
+                {
+                  "value": 0.0
+                }
+              ],
+              "winner": true,
+              "hits": 10,
+              "errors": 1
+            },
+            {
+              "id": "120",
+              "uid": "s:1~l:14~t:120",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "120",
+                "uid": "s:1~l:14~t:120",
+                "location": "Vanderbilt",
+                "name": "Commodores",
+                "abbreviation": "VAN",
+                "displayName": "Commodores",
+                "shortDisplayName": "Commodores",
+                "color": "000000",
+                "isActive": true,
+                "links": []
+              },
+              "score": "8",
+              "linescores": [
+                {
+                  "value": 1.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 1.0
+                },
+                {
+                  "value": 3.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 1.0
+                },
+                {
+                  "value": 2.0
+                },
+                {
+                  "value": 0.0
+                },
+                {
+                  "value": 0.0
+                }
+              ],
+              "winner": false,
+              "hits": 10,
+              "errors": 2
+            }
+          ],
+          "status": {
+            "period": 9,
+            "type": {
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "state": "post",
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "shortDetail": "Final",
+              "altDetail": "Final"
+            }
+          },
+          "broadcasts": [
+            {
+              "market": "national",
+              "names": [
+                "SECN"
+              ]
+            }
+          ],
+          "startDate": "2017-03-19T20:00Z",
+          "geoBroadcasts": [
+            {
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              },
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "SECN"
+              },
+              "lang": "en",
+              "region": "us"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370781092",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "teamstats",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/matchup?gameId=370781092",
+          "text": "Team Stats",
+          "shortText": "Team Stats",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "boxscore",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/boxscore?gameId=370781092",
+          "text": "Box Score",
+          "shortText": "Box Score",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370781092",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 9,
+        "type": {
+          "id": "3",
+          "name": "STATUS_FINAL",
+          "state": "post",
+          "completed": true,
+          "description": "Final",
+          "detail": "Final",
+          "shortDetail": "Final",
+          "altDetail": "Final"
+        }
+      }
+    },
+    {
+      "id": "370781165",
+      "uid": "s:1~l:14~e:370781165",
+      "date": "2017-03-19T20:00Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370781165",
+          "uid": "s:1~l:14~e:370781165~c:370781165",
+          "date": "2017-03-19T20:00Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "165",
+              "uid": "s:1~l:14~t:165",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "165",
+                "uid": "s:1~l:14~t:165",
+                "location": "Cal State Fullerton",
+                "name": "Titans",
+                "abbreviation": "CSF",
+                "displayName": "Titans",
+                "shortDisplayName": "Titans",
+                "color": "10219C",
+                "isActive": true,
+                "links": []
+              },
+              "score": "1",
+              "linescores": [
+                {
+                  "value": -1.0
+                }
+              ],
+              "winner": true
+            },
+            {
+              "id": "104",
+              "uid": "s:1~l:14~t:104",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "104",
+                "uid": "s:1~l:14~t:104",
+                "location": "New Mexico",
+                "name": "Lobos",
+                "abbreviation": "UNM",
+                "displayName": "Lobos",
+                "shortDisplayName": "Lobos",
+                "color": "000000",
+                "isActive": true,
+                "links": []
+              },
+              "score": "0",
+              "linescores": [
+                {
+                  "value": 0.0
+                }
+              ],
+              "winner": false
+            }
+          ],
+          "status": {
+            "period": 9,
+            "type": {
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "state": "post",
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "shortDetail": "Final",
+              "altDetail": "Final"
+            }
+          },
+          "broadcasts": [],
+          "startDate": "2017-03-19T20:00Z",
+          "geoBroadcasts": []
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370781165",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370781165",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 9,
+        "type": {
+          "id": "3",
+          "name": "STATUS_FINAL",
+          "state": "post",
+          "completed": true,
+          "description": "Final",
+          "detail": "Final",
+          "shortDetail": "Final",
+          "altDetail": "Final"
+        }
+      }
+    },
+    {
+      "id": "370781066",
+      "uid": "s:1~l:14~e:370781066",
+      "date": "2017-03-19T21:00Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370781066",
+          "uid": "s:1~l:14~e:370781066~c:370781066",
+          "date": "2017-03-19T21:00Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "66",
+              "uid": "s:1~l:14~t:66",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "66",
+                "uid": "s:1~l:14~t:66",
+                "location": "UCLA",
+                "name": "Bruins",
+                "abbreviation": "UCLA",
+                "displayName": "Bruins",
+                "shortDisplayName": "Bruins",
+                "color": "005A94",
+                "isActive": true,
+                "links": []
+              },
+              "score": "8",
+              "linescores": [
+                {
+                  "value": 8.0
+                }
+              ],
+              "winner": true
+            },
+            {
+              "id": "60",
+              "uid": "s:1~l:14~t:60",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "60",
+                "uid": "s:1~l:14~t:60",
+                "location": "Arizona",
+                "name": "Wildcats",
+                "abbreviation": "ARIZ",
+                "displayName": "Wildcats",
+                "shortDisplayName": "Wildcats",
+                "color": "102142",
+                "isActive": true,
+                "links": []
+              },
+              "score": "7",
+              "linescores": [
+                {
+                  "value": 7.0
+                }
+              ],
+              "winner": false
+            }
+          ],
+          "status": {
+            "period": 10,
+            "type": {
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "state": "post",
+              "completed": true,
+              "description": "Final",
+              "detail": "Final/10",
+              "shortDetail": "Final/10",
+              "altDetail": "Final"
+            }
+          },
+          "broadcasts": [],
+          "startDate": "2017-03-19T21:00Z",
+          "geoBroadcasts": []
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370781066",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370781066",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 10,
+        "type": {
+          "id": "3",
+          "name": "STATUS_FINAL",
+          "state": "post",
+          "completed": true,
+          "description": "Final",
+          "detail": "Final/10",
+          "shortDetail": "Final/10",
+          "altDetail": "Final"
+        }
+      }
+    }
+  ]
+}

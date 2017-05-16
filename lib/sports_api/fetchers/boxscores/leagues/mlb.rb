@@ -1,7 +1,7 @@
 class SportsApi::Fetcher::Boxscore::MLB < SportsApi::Fetcher::Boxscore
 
-  def self.find(date)
-    new(date).response
+  def self.find(gameid)
+    new(gameid).response
   end
 
   private

@@ -1,13 +1,13 @@
 require 'spec_helper'
 
 describe SportsApi::Fetcher::Score::NCF do
-  it { expect(SportsApi::Fetcher::Score::NCF.new(1)).to_not eq(nil) }
+  it { expect(SportsApi::Fetcher::Score::NCF.new(Date.today)).to_not eq(nil) }
   describe '#find' do
     describe 'pregame' do
-      let(:week) { 1 }
-      let(:find) { SportsApi::Fetcher::Score::NCF.find_by(week) }
+      let(:date) { Date.new(2015, 10, 31) }
+      let(:find) { SportsApi::Fetcher::Score::NCF.find(date) }
       let(:json_stub) { StubbedJson.get('pregame.json') }
-      before { expect_any_instance_of(SportsApi::Fetcher::Score::NCF).to receive(:get).with('football', 'college-football', week: week, limit: 300, groups: 80).and_return(json_stub) }
+      before { expect_any_instance_of(SportsApi::Fetcher::Score::NCF).to receive(:get).with('football', 'college-football', dates: 20151031, limit: 300, groups: 80).and_return(json_stub) }
       context 'basic league info' do
         it { expect(find.calendar.size).to eq(16) }
         it { expect(find.name).to eq('NCAA - Football') }
@@ -24,10 +24,10 @@ describe SportsApi::Fetcher::Score::NCF do
       end
     end
     describe 'postgame' do
-      let(:week) { 1 }
-      let(:find) { SportsApi::Fetcher::Score::NCF.find_by(week) }
+      let(:date) { Date.new(2015, 9, 03) }
+      let(:find) { SportsApi::Fetcher::Score::NCF.find(date) }
       let(:json_stub) { StubbedJson.get('postgame.json') }
-      before { expect_any_instance_of(SportsApi::Fetcher::Score::NCF).to receive(:get).with('football', 'college-football', week: week, limit: 300, groups: 80).and_return(json_stub) }
+      before { expect_any_instance_of(SportsApi::Fetcher::Score::NCF).to receive(:get).with('football', 'college-football', dates: 20150903, limit: 300, groups: 80).and_return(json_stub) }
       context 'event info' do
         let(:event) { find.events.detect { |event| event.status.final? } }
         it { expect(event.date.to_date).to eq(Date.new(2015, 9, 03)) }

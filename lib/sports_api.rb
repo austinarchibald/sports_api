@@ -7,7 +7,8 @@ module SportsApi
     NCF = 'ncf',
     MLB = 'mlb',
     NFL = 'nfl',
-    NCB = 'ncb'
+    NCB = 'ncb',
+    CBASE = 'cbase'
   ]
 
   def self.root

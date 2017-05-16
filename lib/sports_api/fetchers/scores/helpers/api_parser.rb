@@ -2,6 +2,7 @@ module SportsApi::Fetcher::Score::ApiParser
   attr_accessor :league
 
   def response
+    return nil if json.nil?
     generate_league
   end
 
@@ -12,6 +13,8 @@ module SportsApi::Fetcher::Score::ApiParser
       ## Build League
       league.name = league_json['name']
       league.abbreviation = league_json['abbreviation']
+      league.start_date = league_json['calendarStartDate']
+      league.end_date = league_json['calendarEndDate']
       league.calendar_type = league_json['calendarType']
       league.calendar = generate_calendar(league_json['calendar'])
 
@@ -118,7 +121,7 @@ module SportsApi::Fetcher::Score::ApiParser
       headline.content = headline_json['description']
       headline.photo = video_json['thumbnail']
 
-      headline.url = "http://espn.go.com/#{league}/#{event.status.pregame? ? 'preview' : 'recap'}?gameId=#{event.gameid}"
+      headline.url = "http://espn.com/#{league}/#{event.status.pregame? ? 'preview' : 'recap'}?gameId=#{event.gameid}"
     end
   end
 end

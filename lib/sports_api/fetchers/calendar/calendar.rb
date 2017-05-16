@@ -11,6 +11,8 @@ class SportsApi::Fetcher::Calendar
       SportsApi::Fetcher::Calendar::NCB.find
     when SportsApi::MLB
       SportsApi::Fetcher::Calendar::MLB.find
+    when SportsApi::CBASE
+      SportsApi::Fetcher::Calendar::CBASE.find
     end
   end
 end

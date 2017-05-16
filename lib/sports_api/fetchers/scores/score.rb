@@ -14,6 +14,8 @@ class SportsApi::Fetcher::Score
       SportsApi::Fetcher::Score::NCB.find(date)
     when SportsApi::MLB
       SportsApi::Fetcher::Score::MLB.find(date)
+    when SportsApi::CBASE
+      SportsApi::Fetcher::Score::CBASE.find(date)
     end
   end
 

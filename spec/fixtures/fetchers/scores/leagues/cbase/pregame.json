@@ -1,0 +1,2701 @@
+{
+  "leagues": [
+    {
+      "id": "14",
+      "uid": "s:1~l:14",
+      "name": "NCAA Men Baseball",
+      "abbreviation": "CBASE",
+      "slug": "college-baseball",
+      "calendarType": "day",
+      "calendarIsWhitelist": true,
+      "calendarStartDate": "2016-07-05T04:00Z",
+      "calendarEndDate": "2017-06-09T03:23Z",
+      "calendar": [
+        "2017-02-16T08:00Z",
+        "2017-02-17T08:00Z",
+        "2017-02-18T08:00Z",
+        "2017-02-19T08:00Z",
+        "2017-02-20T08:00Z",
+        "2017-02-21T08:00Z",
+        "2017-02-22T08:00Z",
+        "2017-02-23T08:00Z",
+        "2017-02-24T08:00Z",
+        "2017-02-25T08:00Z",
+        "2017-02-26T08:00Z",
+        "2017-02-27T08:00Z",
+        "2017-02-28T08:00Z",
+        "2017-03-01T08:00Z",
+        "2017-03-02T08:00Z",
+        "2017-03-03T08:00Z",
+        "2017-03-04T08:00Z",
+        "2017-03-05T08:00Z",
+        "2017-03-06T08:00Z",
+        "2017-03-07T08:00Z",
+        "2017-03-08T08:00Z",
+        "2017-03-09T08:00Z",
+        "2017-03-10T08:00Z",
+        "2017-03-11T08:00Z",
+        "2017-03-12T08:00Z",
+        "2017-03-13T07:00Z",
+        "2017-03-14T07:00Z",
+        "2017-03-15T07:00Z",
+        "2017-03-16T07:00Z",
+        "2017-03-17T07:00Z",
+        "2017-03-18T07:00Z",
+        "2017-03-19T07:00Z",
+        "2017-03-21T07:00Z",
+        "2017-03-22T07:00Z",
+        "2017-03-23T07:00Z",
+        "2017-03-24T07:00Z",
+        "2017-03-25T07:00Z",
+        "2017-03-26T07:00Z",
+        "2017-03-28T07:00Z",
+        "2017-03-29T07:00Z",
+        "2017-03-30T07:00Z",
+        "2017-03-31T07:00Z",
+        "2017-04-01T07:00Z",
+        "2017-04-02T07:00Z",
+        "2017-04-04T07:00Z",
+        "2017-04-05T07:00Z",
+        "2017-04-06T07:00Z",
+        "2017-04-07T07:00Z",
+        "2017-04-08T07:00Z",
+        "2017-04-09T07:00Z",
+        "2017-04-11T07:00Z",
+        "2017-04-12T07:00Z",
+        "2017-04-13T07:00Z",
+        "2017-04-14T07:00Z",
+        "2017-04-15T07:00Z",
+        "2017-04-16T07:00Z",
+        "2017-04-18T07:00Z",
+        "2017-04-19T07:00Z",
+        "2017-04-20T07:00Z",
+        "2017-04-21T07:00Z",
+        "2017-04-22T07:00Z",
+        "2017-04-23T07:00Z",
+        "2017-04-25T07:00Z",
+        "2017-04-26T07:00Z",
+        "2017-04-27T07:00Z",
+        "2017-04-28T07:00Z",
+        "2017-04-29T07:00Z",
+        "2017-04-30T07:00Z",
+        "2017-05-02T07:00Z",
+        "2017-05-03T07:00Z",
+        "2017-05-04T07:00Z",
+        "2017-05-05T07:00Z",
+        "2017-05-06T07:00Z",
+        "2017-05-07T07:00Z",
+        "2017-05-09T07:00Z",
+        "2017-05-10T07:00Z",
+        "2017-05-11T07:00Z",
+        "2017-05-12T07:00Z",
+        "2017-05-13T07:00Z",
+        "2017-05-14T07:00Z",
+        "2017-05-16T07:00Z",
+        "2017-05-18T07:00Z",
+        "2017-05-19T07:00Z",
+        "2017-05-20T07:00Z",
+        "2017-05-21T07:00Z"
+      ]
+    }
+  ],
+  "season": {
+    "type": 2,
+    "year": 2017
+  },
+  "day": {
+    "date": "2017-03-21"
+  },
+  "events": [
+    {
+      "id": "370801131",
+      "uid": "s:1~l:14~e:370801131",
+      "date": "2017-03-21T20:00Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370801131",
+          "uid": "s:1~l:14~e:370801131~c:370801131",
+          "date": "2017-03-21T20:00Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "131",
+              "uid": "s:1~l:14~t:131",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "131",
+                "uid": "s:1~l:14~t:131",
+                "location": "Virginia",
+                "name": "Cavaliers",
+                "abbreviation": "UVA",
+                "displayName": "Cavaliers",
+                "shortDisplayName": "Cavaliers",
+                "color": "000066",
+                "isActive": true,
+                "links": []
+              }
+            },
+            {
+              "id": "305",
+              "uid": "s:1~l:14~t:305",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "305",
+                "uid": "s:1~l:14~t:305",
+                "location": "Towson",
+                "name": "Tigers",
+                "abbreviation": "TOWU",
+                "displayName": "Tigers",
+                "shortDisplayName": "Tigers",
+                "color": "000000",
+                "isActive": true,
+                "links": []
+              }
+            }
+          ],
+          "status": {
+            "period": 0,
+            "type": {
+              "id": "1",
+              "name": "STATUS_SCHEDULED",
+              "state": "pre",
+              "completed": false,
+              "description": "Scheduled",
+              "detail": "Tue, March 21st at 4:00 PM EDT",
+              "shortDetail": "3/21 - 4:00 PM EDT"
+            }
+          },
+          "broadcasts": [],
+          "startDate": "2017-03-21T20:00Z",
+          "geoBroadcasts": []
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370801131",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370801131",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 0,
+        "type": {
+          "id": "1",
+          "name": "STATUS_SCHEDULED",
+          "state": "pre",
+          "completed": false,
+          "description": "Scheduled",
+          "detail": "Tue, March 21st at 4:00 PM EDT",
+          "shortDetail": "3/21 - 4:00 PM EDT"
+        }
+      }
+    },
+    {
+      "id": "370801307",
+      "uid": "s:1~l:14~e:370801307",
+      "date": "2017-03-21T21:00Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370801307",
+          "uid": "s:1~l:14~e:370801307~c:370801307",
+          "date": "2017-03-21T21:00Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "307",
+              "uid": "s:1~l:14~t:307",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "307",
+                "uid": "s:1~l:14~t:307",
+                "location": "Kennesaw State",
+                "name": "Owls",
+                "abbreviation": "KSU",
+                "displayName": "Owls",
+                "shortDisplayName": "Owls",
+                "isActive": true,
+                "links": []
+              }
+            },
+            {
+              "id": "78",
+              "uid": "s:1~l:14~t:78",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "78",
+                "uid": "s:1~l:14~t:78",
+                "location": "Georgia",
+                "name": "Bulldogs",
+                "abbreviation": "UGA",
+                "displayName": "Bulldogs",
+                "shortDisplayName": "Bulldogs",
+                "color": "D60022",
+                "isActive": true,
+                "links": []
+              }
+            }
+          ],
+          "status": {
+            "period": 0,
+            "type": {
+              "id": "1",
+              "name": "STATUS_SCHEDULED",
+              "state": "pre",
+              "completed": false,
+              "description": "Scheduled",
+              "detail": "Tue, March 21st at 5:00 PM EDT",
+              "shortDetail": "3/21 - 5:00 PM EDT"
+            }
+          },
+          "broadcasts": [
+            {
+              "market": "national",
+              "names": [
+                "E360"
+              ]
+            }
+          ],
+          "startDate": "2017-03-21T21:00Z",
+          "geoBroadcasts": [
+            {
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              },
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "E360"
+              },
+              "lang": "en",
+              "region": "us"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370801307",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370801307",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "watchespn",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/watchespn/index?gameId=370801307",
+          "text": "WatchESPN",
+          "shortText": "WatchESPN",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 0,
+        "type": {
+          "id": "1",
+          "name": "STATUS_SCHEDULED",
+          "state": "pre",
+          "completed": false,
+          "description": "Scheduled",
+          "detail": "Tue, March 21st at 5:00 PM EDT",
+          "shortDetail": "3/21 - 5:00 PM EDT"
+        }
+      }
+    },
+    {
+      "id": "370801077",
+      "uid": "s:1~l:14~e:370801077",
+      "date": "2017-03-21T22:00Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370801077",
+          "uid": "s:1~l:14~e:370801077~c:370801077",
+          "date": "2017-03-21T22:00Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "77",
+              "uid": "s:1~l:14~t:77",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "77",
+                "uid": "s:1~l:14~t:77",
+                "location": "Georgia Tech",
+                "name": "Yellow Jackets",
+                "abbreviation": "GT",
+                "displayName": "Yellow Jackets",
+                "shortDisplayName": "Yellow Jackets",
+                "color": "000000",
+                "isActive": true,
+                "links": []
+              }
+            },
+            {
+              "id": "55",
+              "uid": "s:1~l:14~t:55",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "55",
+                "uid": "s:1~l:14~t:55",
+                "location": "Auburn",
+                "name": "Tigers",
+                "abbreviation": "AUB",
+                "displayName": "Tigers",
+                "shortDisplayName": "Tigers",
+                "color": "182942",
+                "isActive": true,
+                "links": []
+              }
+            }
+          ],
+          "status": {
+            "period": 0,
+            "type": {
+              "id": "1",
+              "name": "STATUS_SCHEDULED",
+              "state": "pre",
+              "completed": false,
+              "description": "Scheduled",
+              "detail": "Tue, March 21st at 6:00 PM EDT",
+              "shortDetail": "3/21 - 6:00 PM EDT"
+            }
+          },
+          "broadcasts": [
+            {
+              "market": "national",
+              "names": [
+                "ACCN"
+              ]
+            }
+          ],
+          "startDate": "2017-03-21T22:00Z",
+          "geoBroadcasts": [
+            {
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              },
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "ACCN"
+              },
+              "lang": "en",
+              "region": "us"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370801077",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370801077",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 0,
+        "type": {
+          "id": "1",
+          "name": "STATUS_SCHEDULED",
+          "state": "pre",
+          "completed": false,
+          "description": "Scheduled",
+          "detail": "Tue, March 21st at 6:00 PM EDT",
+          "shortDetail": "3/21 - 6:00 PM EDT"
+        }
+      }
+    },
+    {
+      "id": "370801072",
+      "uid": "s:1~l:14~e:370801072",
+      "date": "2017-03-21T22:00Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370801072",
+          "uid": "s:1~l:14~e:370801072~c:370801072",
+          "date": "2017-03-21T22:00Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "72",
+              "uid": "s:1~l:14~t:72",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "72",
+                "uid": "s:1~l:14~t:72",
+                "location": "Florida State",
+                "name": "Seminoles",
+                "abbreviation": "FSU",
+                "displayName": "Seminoles",
+                "shortDisplayName": "Seminoles",
+                "color": "B72931",
+                "isActive": true,
+                "links": []
+              }
+            },
+            {
+              "id": "139",
+              "uid": "s:1~l:14~t:139",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "139",
+                "uid": "s:1~l:14~t:139",
+                "location": "Jacksonville",
+                "name": "Dolphins",
+                "abbreviation": "JAC",
+                "displayName": "Dolphins",
+                "shortDisplayName": "Dolphins",
+                "color": "008568",
+                "isActive": true,
+                "links": []
+              }
+            }
+          ],
+          "status": {
+            "period": 0,
+            "type": {
+              "id": "1",
+              "name": "STATUS_SCHEDULED",
+              "state": "pre",
+              "completed": false,
+              "description": "Scheduled",
+              "detail": "Tue, March 21st at 6:00 PM EDT",
+              "shortDetail": "3/21 - 6:00 PM EDT"
+            }
+          },
+          "broadcasts": [],
+          "startDate": "2017-03-21T22:00Z",
+          "geoBroadcasts": []
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370801072",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370801072",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 0,
+        "type": {
+          "id": "1",
+          "name": "STATUS_SCHEDULED",
+          "state": "pre",
+          "completed": false,
+          "description": "Scheduled",
+          "detail": "Tue, March 21st at 6:00 PM EDT",
+          "shortDetail": "3/21 - 6:00 PM EDT"
+        }
+      }
+    },
+    {
+      "id": "370801118",
+      "uid": "s:1~l:14~e:370801118",
+      "date": "2017-03-21T22:00Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370801118",
+          "uid": "s:1~l:14~e:370801118~c:370801118",
+          "date": "2017-03-21T22:00Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "118",
+              "uid": "s:1~l:14~t:118",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "118",
+                "uid": "s:1~l:14~t:118",
+                "location": "Charleston",
+                "name": "Cougars",
+                "abbreviation": "COFC",
+                "displayName": "Cougars",
+                "shortDisplayName": "Cougars",
+                "color": "9C8456",
+                "isActive": true,
+                "links": []
+              }
+            },
+            {
+              "id": "117",
+              "uid": "s:1~l:14~t:117",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "117",
+                "uid": "s:1~l:14~t:117",
+                "location": "Clemson",
+                "name": "Tigers",
+                "abbreviation": "CLEM",
+                "displayName": "Tigers",
+                "shortDisplayName": "Tigers",
+                "color": "F35B0F",
+                "isActive": true,
+                "links": []
+              }
+            }
+          ],
+          "status": {
+            "period": 0,
+            "type": {
+              "id": "1",
+              "name": "STATUS_SCHEDULED",
+              "state": "pre",
+              "completed": false,
+              "description": "Scheduled",
+              "detail": "Tue, March 21st at 6:00 PM EDT",
+              "shortDetail": "3/21 - 6:00 PM EDT"
+            }
+          },
+          "broadcasts": [],
+          "startDate": "2017-03-21T22:00Z",
+          "geoBroadcasts": []
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370801118",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370801118",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 0,
+        "type": {
+          "id": "1",
+          "name": "STATUS_SCHEDULED",
+          "state": "pre",
+          "completed": false,
+          "description": "Scheduled",
+          "detail": "Tue, March 21st at 6:00 PM EDT",
+          "shortDetail": "3/21 - 6:00 PM EDT"
+        }
+      }
+    },
+    {
+      "id": "370801161",
+      "uid": "s:1~l:14~e:370801161",
+      "date": "2017-03-21T22:00Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370801161",
+          "uid": "s:1~l:14~e:370801161~c:370801161",
+          "date": "2017-03-21T22:00Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "161",
+              "uid": "s:1~l:14~t:161",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "161",
+                "uid": "s:1~l:14~t:161",
+                "location": "Cincinnati",
+                "name": "Bearcats",
+                "abbreviation": "CIN",
+                "displayName": "Bearcats",
+                "shortDisplayName": "Bearcats",
+                "color": "000000",
+                "isActive": true,
+                "links": []
+              }
+            },
+            {
+              "id": "83",
+              "uid": "s:1~l:14~t:83",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "83",
+                "uid": "s:1~l:14~t:83",
+                "location": "Louisville",
+                "name": "Cardinals",
+                "abbreviation": "LOU",
+                "displayName": "Cardinals",
+                "shortDisplayName": "Cardinals",
+                "color": "DE0018",
+                "isActive": true,
+                "links": []
+              }
+            }
+          ],
+          "status": {
+            "period": 0,
+            "type": {
+              "id": "1",
+              "name": "STATUS_SCHEDULED",
+              "state": "pre",
+              "completed": false,
+              "description": "Scheduled",
+              "detail": "Tue, March 21st at 6:00 PM EDT",
+              "shortDetail": "3/21 - 6:00 PM EDT"
+            }
+          },
+          "broadcasts": [],
+          "startDate": "2017-03-21T22:00Z",
+          "geoBroadcasts": []
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370801161",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370801161",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 0,
+        "type": {
+          "id": "1",
+          "name": "STATUS_SCHEDULED",
+          "state": "pre",
+          "completed": false,
+          "description": "Scheduled",
+          "detail": "Tue, March 21st at 6:00 PM EDT",
+          "shortDetail": "3/21 - 6:00 PM EDT"
+        }
+      }
+    },
+    {
+      "id": "370801074",
+      "uid": "s:1~l:14~e:370801074",
+      "date": "2017-03-21T22:30Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370801074",
+          "uid": "s:1~l:14~e:370801074~c:370801074",
+          "date": "2017-03-21T22:30Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "74",
+              "uid": "s:1~l:14~t:74",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "74",
+                "uid": "s:1~l:14~t:74",
+                "location": "Stetson",
+                "name": "Hatters",
+                "abbreviation": "STET",
+                "displayName": "Hatters",
+                "shortDisplayName": "Hatters",
+                "color": "18581C",
+                "isActive": true,
+                "links": []
+              }
+            },
+            {
+              "id": "75",
+              "uid": "s:1~l:14~t:75",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "75",
+                "uid": "s:1~l:14~t:75",
+                "location": "Florida",
+                "name": "Gators",
+                "abbreviation": "FLA",
+                "displayName": "Gators",
+                "shortDisplayName": "Gators",
+                "color": "2A42CE",
+                "isActive": true,
+                "links": []
+              }
+            }
+          ],
+          "status": {
+            "period": 0,
+            "type": {
+              "id": "1",
+              "name": "STATUS_SCHEDULED",
+              "state": "pre",
+              "completed": false,
+              "description": "Scheduled",
+              "detail": "Tue, March 21st at 6:30 PM EDT",
+              "shortDetail": "3/21 - 6:30 PM EDT"
+            }
+          },
+          "broadcasts": [
+            {
+              "market": "national",
+              "names": [
+                "E360"
+              ]
+            }
+          ],
+          "startDate": "2017-03-21T22:30Z",
+          "geoBroadcasts": [
+            {
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              },
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "E360"
+              },
+              "lang": "en",
+              "region": "us"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370801074",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370801074",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "watchespn",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/watchespn/index?gameId=370801074",
+          "text": "WatchESPN",
+          "shortText": "WatchESPN",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 0,
+        "type": {
+          "id": "1",
+          "name": "STATUS_SCHEDULED",
+          "state": "pre",
+          "completed": false,
+          "description": "Scheduled",
+          "detail": "Tue, March 21st at 6:30 PM EDT",
+          "shortDetail": "3/21 - 6:30 PM EDT"
+        }
+      }
+    },
+    {
+      "id": "370801147",
+      "uid": "s:1~l:14~e:370801147",
+      "date": "2017-03-21T23:00Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370801147",
+          "uid": "s:1~l:14~e:370801147~c:370801147",
+          "date": "2017-03-21T23:00Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "147",
+              "uid": "s:1~l:14~t:147",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "147",
+                "uid": "s:1~l:14~t:147",
+                "location": "Texas State",
+                "name": "Bobcats",
+                "abbreviation": "TXST",
+                "displayName": "Bobcats",
+                "shortDisplayName": "Bobcats",
+                "color": "94314A",
+                "isActive": true,
+                "links": []
+              }
+            },
+            {
+              "id": "126",
+              "uid": "s:1~l:14~t:126",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "126",
+                "uid": "s:1~l:14~t:126",
+                "location": "Texas",
+                "name": "Longhorns",
+                "abbreviation": "TEX",
+                "displayName": "Longhorns",
+                "shortDisplayName": "Longhorns",
+                "color": "EF7321",
+                "isActive": true,
+                "links": []
+              }
+            }
+          ],
+          "status": {
+            "period": 0,
+            "type": {
+              "id": "1",
+              "name": "STATUS_SCHEDULED",
+              "state": "pre",
+              "completed": false,
+              "description": "Scheduled",
+              "detail": "Tue, March 21st at 7:00 PM EDT",
+              "shortDetail": "3/21 - 7:00 PM EDT"
+            }
+          },
+          "broadcasts": [
+            {
+              "market": "national",
+              "names": [
+                "E360"
+              ]
+            }
+          ],
+          "startDate": "2017-03-21T23:00Z",
+          "geoBroadcasts": [
+            {
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              },
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "E360"
+              },
+              "lang": "en",
+              "region": "us"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370801147",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370801147",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "watchespn",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/watchespn/index?gameId=370801147",
+          "text": "WatchESPN",
+          "shortText": "WatchESPN",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 0,
+        "type": {
+          "id": "1",
+          "name": "STATUS_SCHEDULED",
+          "state": "pre",
+          "completed": false,
+          "description": "Scheduled",
+          "detail": "Tue, March 21st at 7:00 PM EDT",
+          "shortDetail": "3/21 - 7:00 PM EDT"
+        }
+      }
+    },
+    {
+      "id": "370801123",
+      "uid": "s:1~l:14~e:370801123",
+      "date": "2017-03-21T23:00Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370801123",
+          "uid": "s:1~l:14~e:370801123~c:370801123",
+          "date": "2017-03-21T23:00Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "123",
+              "uid": "s:1~l:14~t:123",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "123",
+                "uid": "s:1~l:14~t:123",
+                "location": "Texas A&M",
+                "name": "Aggies",
+                "abbreviation": "TA&M",
+                "displayName": "Aggies",
+                "shortDisplayName": "Aggies",
+                "color": "6A3333",
+                "isActive": true,
+                "links": []
+              }
+            },
+            {
+              "id": "122",
+              "uid": "s:1~l:14~t:122",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "122",
+                "uid": "s:1~l:14~t:122",
+                "location": "Rice",
+                "name": "Owls",
+                "abbreviation": "RICE",
+                "displayName": "Owls",
+                "shortDisplayName": "Owls",
+                "color": "00315A",
+                "isActive": true,
+                "links": []
+              }
+            }
+          ],
+          "status": {
+            "period": 0,
+            "type": {
+              "id": "1",
+              "name": "STATUS_SCHEDULED",
+              "state": "pre",
+              "completed": false,
+              "description": "Scheduled",
+              "detail": "Tue, March 21st at 7:00 PM EDT",
+              "shortDetail": "3/21 - 7:00 PM EDT"
+            }
+          },
+          "broadcasts": [
+            {
+              "market": "national",
+              "names": [
+                "SECN"
+              ]
+            }
+          ],
+          "startDate": "2017-03-21T23:00Z",
+          "geoBroadcasts": [
+            {
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              },
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "SECN"
+              },
+              "lang": "en",
+              "region": "us"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370801123",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370801123",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 0,
+        "type": {
+          "id": "1",
+          "name": "STATUS_SCHEDULED",
+          "state": "pre",
+          "completed": false,
+          "description": "Scheduled",
+          "detail": "Tue, March 21st at 7:00 PM EDT",
+          "shortDetail": "3/21 - 7:00 PM EDT"
+        }
+      }
+    },
+    {
+      "id": "370801084",
+      "uid": "s:1~l:14~e:370801084",
+      "date": "2017-03-21T23:00Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370801084",
+          "uid": "s:1~l:14~e:370801084~c:370801084",
+          "date": "2017-03-21T23:00Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "84",
+              "uid": "s:1~l:14~t:84",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "84",
+                "uid": "s:1~l:14~t:84",
+                "location": "Western Kentucky",
+                "name": "Hilltoppers",
+                "abbreviation": "WKU",
+                "displayName": "Hilltoppers",
+                "shortDisplayName": "Hilltoppers",
+                "color": "000000",
+                "isActive": true,
+                "links": []
+              }
+            },
+            {
+              "id": "82",
+              "uid": "s:1~l:14~t:82",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "82",
+                "uid": "s:1~l:14~t:82",
+                "location": "Kentucky",
+                "name": "Wildcats",
+                "abbreviation": "UK",
+                "displayName": "Wildcats",
+                "shortDisplayName": "Wildcats",
+                "color": "003399",
+                "isActive": true,
+                "links": []
+              }
+            }
+          ],
+          "status": {
+            "period": 0,
+            "type": {
+              "id": "1",
+              "name": "STATUS_SCHEDULED",
+              "state": "pre",
+              "completed": false,
+              "description": "Scheduled",
+              "detail": "Tue, March 21st at 7:00 PM EDT",
+              "shortDetail": "3/21 - 7:00 PM EDT"
+            }
+          },
+          "broadcasts": [],
+          "startDate": "2017-03-21T23:00Z",
+          "geoBroadcasts": []
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370801084",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370801084",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 0,
+        "type": {
+          "id": "1",
+          "name": "STATUS_SCHEDULED",
+          "state": "pre",
+          "completed": false,
+          "description": "Scheduled",
+          "detail": "Tue, March 21st at 7:00 PM EDT",
+          "shortDetail": "3/21 - 7:00 PM EDT"
+        }
+      }
+    },
+    {
+      "id": "370801144",
+      "uid": "s:1~l:14~e:370801144",
+      "date": "2017-03-21T23:00Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370801144",
+          "uid": "s:1~l:14~e:370801144~c:370801144",
+          "date": "2017-03-21T23:00Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "144",
+              "uid": "s:1~l:14~t:144",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "144",
+                "uid": "s:1~l:14~t:144",
+                "location": "Louisiana-Lafayette",
+                "name": "Ragin' Cajuns",
+                "abbreviation": "ULL",
+                "displayName": "Ragin' Cajuns",
+                "shortDisplayName": "Ragin' Cajuns",
+                "color": "CE2842",
+                "isActive": true,
+                "links": []
+              }
+            },
+            {
+              "id": "124",
+              "uid": "s:1~l:14~t:124",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "124",
+                "uid": "s:1~l:14~t:124",
+                "location": "Houston",
+                "name": "Cougars",
+                "abbreviation": "HOU",
+                "displayName": "Cougars",
+                "shortDisplayName": "Cougars",
+                "color": "E73139",
+                "isActive": true,
+                "links": []
+              }
+            }
+          ],
+          "status": {
+            "period": 0,
+            "type": {
+              "id": "1",
+              "name": "STATUS_SCHEDULED",
+              "state": "pre",
+              "completed": false,
+              "description": "Scheduled",
+              "detail": "Tue, March 21st at 7:00 PM EDT",
+              "shortDetail": "3/21 - 7:00 PM EDT"
+            }
+          },
+          "broadcasts": [],
+          "startDate": "2017-03-21T23:00Z",
+          "geoBroadcasts": []
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370801144",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370801144",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 0,
+        "type": {
+          "id": "1",
+          "name": "STATUS_SCHEDULED",
+          "state": "pre",
+          "completed": false,
+          "description": "Scheduled",
+          "detail": "Tue, March 21st at 7:00 PM EDT",
+          "shortDetail": "3/21 - 7:00 PM EDT"
+        }
+      }
+    },
+    {
+      "id": "370801091",
+      "uid": "s:1~l:14~e:370801091",
+      "date": "2017-03-21T23:30Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370801091",
+          "uid": "s:1~l:14~e:370801091~c:370801091",
+          "date": "2017-03-21T23:30Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "91",
+              "uid": "s:1~l:14~t:91",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "91",
+                "uid": "s:1~l:14~t:91",
+                "location": "Missouri",
+                "name": "Tigers",
+                "abbreviation": "MIZZ",
+                "displayName": "Tigers",
+                "shortDisplayName": "Tigers",
+                "color": "000000",
+                "isActive": true,
+                "links": []
+              }
+            },
+            {
+              "id": "261",
+              "uid": "s:1~l:14~t:261",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "261",
+                "uid": "s:1~l:14~t:261",
+                "location": "Arkansas-Little Rock",
+                "name": "Trojans",
+                "abbreviation": "UALR",
+                "displayName": "Trojans",
+                "shortDisplayName": "Trojans",
+                "color": "AD0000",
+                "isActive": true,
+                "links": []
+              }
+            }
+          ],
+          "status": {
+            "period": 0,
+            "type": {
+              "id": "1",
+              "name": "STATUS_SCHEDULED",
+              "state": "pre",
+              "completed": false,
+              "description": "Scheduled",
+              "detail": "Tue, March 21st at 7:30 PM EDT",
+              "shortDetail": "3/21 - 7:30 PM EDT"
+            }
+          },
+          "broadcasts": [
+            {
+              "market": "national",
+              "names": [
+                "SECN+"
+              ]
+            }
+          ],
+          "startDate": "2017-03-21T23:30Z",
+          "geoBroadcasts": [
+            {
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              },
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "SECN+"
+              },
+              "lang": "en",
+              "region": "us"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370801091",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370801091",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 0,
+        "type": {
+          "id": "1",
+          "name": "STATUS_SCHEDULED",
+          "state": "pre",
+          "completed": false,
+          "description": "Scheduled",
+          "detail": "Tue, March 21st at 7:30 PM EDT",
+          "shortDetail": "3/21 - 7:30 PM EDT"
+        }
+      }
+    },
+    {
+      "id": "370801119",
+      "uid": "s:1~l:14~e:370801119",
+      "date": "2017-03-21T23:30Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370801119",
+          "uid": "s:1~l:14~e:370801119~c:370801119",
+          "date": "2017-03-21T23:30Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "119",
+              "uid": "s:1~l:14~t:119",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "119",
+                "uid": "s:1~l:14~t:119",
+                "location": "Memphis",
+                "name": "Tigers",
+                "abbreviation": "MEM",
+                "displayName": "Tigers",
+                "shortDisplayName": "Tigers",
+                "color": "29299C",
+                "isActive": true,
+                "links": []
+              }
+            },
+            {
+              "id": "92",
+              "uid": "s:1~l:14~t:92",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "92",
+                "uid": "s:1~l:14~t:92",
+                "location": "Mississippi",
+                "name": "Rebels",
+                "abbreviation": "MISS",
+                "displayName": "Rebels",
+                "shortDisplayName": "Rebels",
+                "color": "101894",
+                "isActive": true,
+                "links": []
+              }
+            }
+          ],
+          "status": {
+            "period": 0,
+            "type": {
+              "id": "1",
+              "name": "STATUS_SCHEDULED",
+              "state": "pre",
+              "completed": false,
+              "description": "Scheduled",
+              "detail": "Tue, March 21st at 7:30 PM EDT",
+              "shortDetail": "3/21 - 7:30 PM EDT"
+            }
+          },
+          "broadcasts": [],
+          "startDate": "2017-03-21T23:30Z",
+          "geoBroadcasts": []
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370801119",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370801119",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 0,
+        "type": {
+          "id": "1",
+          "name": "STATUS_SCHEDULED",
+          "state": "pre",
+          "completed": false,
+          "description": "Scheduled",
+          "detail": "Tue, March 21st at 7:30 PM EDT",
+          "shortDetail": "3/21 - 7:30 PM EDT"
+        }
+      }
+    },
+    {
+      "id": "370801150",
+      "uid": "s:1~l:14~e:370801150",
+      "date": "2017-03-21T23:30Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370801150",
+          "uid": "s:1~l:14~e:370801150~c:370801150",
+          "date": "2017-03-21T23:30Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "150",
+              "uid": "s:1~l:14~t:150",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "150",
+                "uid": "s:1~l:14~t:150",
+                "location": "Mississippi State",
+                "name": "Bulldogs",
+                "abbreviation": "MSST",
+                "displayName": "Bulldogs",
+                "shortDisplayName": "Bulldogs",
+                "color": "531122",
+                "isActive": true,
+                "links": []
+              }
+            },
+            {
+              "id": "192",
+              "uid": "s:1~l:14~t:192",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "192",
+                "uid": "s:1~l:14~t:192",
+                "location": "Southern Miss",
+                "name": "Golden Eagles",
+                "abbreviation": "USM",
+                "displayName": "Golden Eagles",
+                "shortDisplayName": "Golden Eagles",
+                "color": "FFAA3C",
+                "isActive": true,
+                "links": []
+              }
+            }
+          ],
+          "status": {
+            "period": 0,
+            "type": {
+              "id": "1",
+              "name": "STATUS_SCHEDULED",
+              "state": "pre",
+              "completed": false,
+              "description": "Scheduled",
+              "detail": "Tue, March 21st at 7:30 PM EDT",
+              "shortDetail": "3/21 - 7:30 PM EDT"
+            }
+          },
+          "broadcasts": [],
+          "startDate": "2017-03-21T23:30Z",
+          "geoBroadcasts": []
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370801150",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370801150",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 0,
+        "type": {
+          "id": "1",
+          "name": "STATUS_SCHEDULED",
+          "state": "pre",
+          "completed": false,
+          "description": "Scheduled",
+          "detail": "Tue, March 21st at 7:30 PM EDT",
+          "shortDetail": "3/21 - 7:30 PM EDT"
+        }
+      }
+    },
+    {
+      "id": "370801201",
+      "uid": "s:1~l:14~e:370801201",
+      "date": "2017-03-21T23:30Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370801201",
+          "uid": "s:1~l:14~e:370801201~c:370801201",
+          "date": "2017-03-21T23:30Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "201",
+              "uid": "s:1~l:14~t:201",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "201",
+                "uid": "s:1~l:14~t:201",
+                "location": "Texas Tech",
+                "name": "Red Raiders",
+                "abbreviation": "TTU",
+                "displayName": "Red Raiders",
+                "shortDisplayName": "Red Raiders",
+                "color": "D60039",
+                "isActive": true,
+                "links": []
+              }
+            },
+            {
+              "id": "182",
+              "uid": "s:1~l:14~t:182",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "182",
+                "uid": "s:1~l:14~t:182",
+                "location": "UNLV",
+                "name": "Rebels",
+                "abbreviation": "UNLV",
+                "displayName": "Rebels",
+                "shortDisplayName": "Rebels",
+                "color": "000000",
+                "isActive": true,
+                "links": []
+              }
+            }
+          ],
+          "status": {
+            "period": 0,
+            "type": {
+              "id": "1",
+              "name": "STATUS_SCHEDULED",
+              "state": "pre",
+              "completed": false,
+              "description": "Scheduled",
+              "detail": "Tue, March 21st at 7:30 PM EDT",
+              "shortDetail": "3/21 - 7:30 PM EDT"
+            }
+          },
+          "broadcasts": [],
+          "startDate": "2017-03-21T23:30Z",
+          "geoBroadcasts": []
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370801201",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370801201",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 0,
+        "type": {
+          "id": "1",
+          "name": "STATUS_SCHEDULED",
+          "state": "pre",
+          "completed": false,
+          "description": "Scheduled",
+          "detail": "Tue, March 21st at 7:30 PM EDT",
+          "shortDetail": "3/21 - 7:30 PM EDT"
+        }
+      }
+    },
+    {
+      "id": "370801315",
+      "uid": "s:1~l:14~e:370801315",
+      "date": "2017-03-21T23:30Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370801315",
+          "uid": "s:1~l:14~e:370801315~c:370801315",
+          "date": "2017-03-21T23:30Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "315",
+              "uid": "s:1~l:14~t:315",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "315",
+                "uid": "s:1~l:14~t:315",
+                "location": "Abilene Christian",
+                "name": "Wildcats",
+                "abbreviation": "ACU",
+                "displayName": "Wildcats",
+                "shortDisplayName": "Wildcats",
+                "color": "000000",
+                "isActive": true,
+                "links": []
+              }
+            },
+            {
+              "id": "198",
+              "uid": "s:1~l:14~t:198",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "198",
+                "uid": "s:1~l:14~t:198",
+                "location": "TCU",
+                "name": "Horned Frogs",
+                "abbreviation": "TCU",
+                "displayName": "Horned Frogs",
+                "shortDisplayName": "Horned Frogs",
+                "color": "201852",
+                "isActive": true,
+                "links": []
+              }
+            }
+          ],
+          "status": {
+            "period": 0,
+            "type": {
+              "id": "1",
+              "name": "STATUS_SCHEDULED",
+              "state": "pre",
+              "completed": false,
+              "description": "Scheduled",
+              "detail": "Tue, March 21st at 7:30 PM EDT",
+              "shortDetail": "3/21 - 7:30 PM EDT"
+            }
+          },
+          "broadcasts": [],
+          "startDate": "2017-03-21T23:30Z",
+          "geoBroadcasts": []
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370801315",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370801315",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 0,
+        "type": {
+          "id": "1",
+          "name": "STATUS_SCHEDULED",
+          "state": "pre",
+          "completed": false,
+          "description": "Scheduled",
+          "detail": "Tue, March 21st at 7:30 PM EDT",
+          "shortDetail": "3/21 - 7:30 PM EDT"
+        }
+      }
+    },
+    {
+      "id": "370801447",
+      "uid": "s:1~l:14~e:370801447",
+      "date": "2017-03-21T23:30Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370801447",
+          "uid": "s:1~l:14~e:370801447~c:370801447",
+          "date": "2017-03-21T23:30Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "447",
+              "uid": "s:1~l:14~t:447",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "447",
+                "uid": "s:1~l:14~t:447",
+                "location": "UAB",
+                "name": "Blazers",
+                "abbreviation": "UAB",
+                "displayName": "Blazers",
+                "shortDisplayName": "Blazers",
+                "color": "000000",
+                "isActive": true,
+                "links": []
+              }
+            },
+            {
+              "id": "148",
+              "uid": "s:1~l:14~t:148",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "148",
+                "uid": "s:1~l:14~t:148",
+                "location": "Alabama",
+                "name": "Crimson Tide",
+                "abbreviation": "ALA",
+                "displayName": "Crimson Tide",
+                "shortDisplayName": "Crimson Tide",
+                "color": "A42D47",
+                "isActive": true,
+                "links": []
+              }
+            }
+          ],
+          "status": {
+            "period": 0,
+            "type": {
+              "id": "1",
+              "name": "STATUS_SCHEDULED",
+              "state": "pre",
+              "completed": false,
+              "description": "Scheduled",
+              "detail": "Tue, March 21st at 7:30 PM EDT",
+              "shortDetail": "3/21 - 7:30 PM EDT"
+            }
+          },
+          "broadcasts": [],
+          "startDate": "2017-03-21T23:30Z",
+          "geoBroadcasts": []
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370801447",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370801447",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 0,
+        "type": {
+          "id": "1",
+          "name": "STATUS_SCHEDULED",
+          "state": "pre",
+          "completed": false,
+          "description": "Scheduled",
+          "detail": "Tue, March 21st at 7:30 PM EDT",
+          "shortDetail": "3/21 - 7:30 PM EDT"
+        }
+      }
+    },
+    {
+      "id": "370801110",
+      "uid": "s:1~l:14~e:370801110",
+      "date": "2017-03-21T23:35Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370801110",
+          "uid": "s:1~l:14~e:370801110~c:370801110",
+          "date": "2017-03-21T23:35Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "110",
+              "uid": "s:1~l:14~t:110",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "110",
+                "uid": "s:1~l:14~t:110",
+                "location": "Oklahoma State",
+                "name": "Cowboys",
+                "abbreviation": "OKST",
+                "displayName": "Cowboys",
+                "shortDisplayName": "Cowboys",
+                "color": "FF7300",
+                "isActive": true,
+                "links": []
+              }
+            },
+            {
+              "id": "112",
+              "uid": "s:1~l:14~t:112",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "112",
+                "uid": "s:1~l:14~t:112",
+                "location": "Oklahoma",
+                "name": "Sooners",
+                "abbreviation": "OKLA",
+                "displayName": "Sooners",
+                "shortDisplayName": "Sooners",
+                "color": "7B0000",
+                "isActive": true,
+                "links": []
+              }
+            }
+          ],
+          "status": {
+            "period": 0,
+            "type": {
+              "id": "1",
+              "name": "STATUS_SCHEDULED",
+              "state": "pre",
+              "completed": false,
+              "description": "Scheduled",
+              "detail": "Tue, March 21st at 7:35 PM EDT",
+              "shortDetail": "3/21 - 7:35 PM EDT"
+            }
+          },
+          "broadcasts": [],
+          "startDate": "2017-03-21T23:35Z",
+          "geoBroadcasts": []
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370801110",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370801110",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 0,
+        "type": {
+          "id": "1",
+          "name": "STATUS_SCHEDULED",
+          "state": "pre",
+          "completed": false,
+          "description": "Scheduled",
+          "detail": "Tue, March 21st at 7:35 PM EDT",
+          "shortDetail": "3/21 - 7:35 PM EDT"
+        }
+      }
+    },
+    {
+      "id": "370801121",
+      "uid": "s:1~l:14~e:370801121",
+      "date": "2017-03-21T23:35Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370801121",
+          "uid": "s:1~l:14~e:370801121~c:370801121",
+          "date": "2017-03-21T23:35Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "121",
+              "uid": "s:1~l:14~t:121",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "121",
+                "uid": "s:1~l:14~t:121",
+                "location": "Baylor",
+                "name": "Bears",
+                "abbreviation": "BAY",
+                "displayName": "Bears",
+                "shortDisplayName": "Bears",
+                "color": "00844A",
+                "isActive": true,
+                "links": []
+              }
+            },
+            {
+              "id": "263",
+              "uid": "s:1~l:14~t:263",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "263",
+                "uid": "s:1~l:14~t:263",
+                "location": "Dallas Baptist",
+                "name": "Patriots",
+                "abbreviation": "DAB",
+                "displayName": "Patriots",
+                "shortDisplayName": "Patriots",
+                "isActive": true,
+                "links": []
+              }
+            }
+          ],
+          "status": {
+            "period": 0,
+            "type": {
+              "id": "1",
+              "name": "STATUS_SCHEDULED",
+              "state": "pre",
+              "completed": false,
+              "description": "Scheduled",
+              "detail": "Tue, March 21st at 7:35 PM EDT",
+              "shortDetail": "3/21 - 7:35 PM EDT"
+            }
+          },
+          "broadcasts": [],
+          "startDate": "2017-03-21T23:35Z",
+          "geoBroadcasts": []
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370801121",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370801121",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 0,
+        "type": {
+          "id": "1",
+          "name": "STATUS_SCHEDULED",
+          "state": "pre",
+          "completed": false,
+          "description": "Scheduled",
+          "detail": "Tue, March 21st at 7:35 PM EDT",
+          "shortDetail": "3/21 - 7:35 PM EDT"
+        }
+      }
+    },
+    {
+      "id": "370801060",
+      "uid": "s:1~l:14~e:370801060",
+      "date": "2017-03-22T00:00Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370801060",
+          "uid": "s:1~l:14~e:370801060~c:370801060",
+          "date": "2017-03-22T00:00Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "60",
+              "uid": "s:1~l:14~t:60",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "60",
+                "uid": "s:1~l:14~t:60",
+                "location": "Arizona",
+                "name": "Wildcats",
+                "abbreviation": "ARIZ",
+                "displayName": "Wildcats",
+                "shortDisplayName": "Wildcats",
+                "color": "102142",
+                "isActive": true,
+                "links": []
+              }
+            },
+            {
+              "id": "103",
+              "uid": "s:1~l:14~t:103",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "103",
+                "uid": "s:1~l:14~t:103",
+                "location": "New Mexico State",
+                "name": "Aggies",
+                "abbreviation": "NMSU",
+                "displayName": "Aggies",
+                "shortDisplayName": "Aggies",
+                "color": "730000",
+                "isActive": true,
+                "links": []
+              }
+            }
+          ],
+          "status": {
+            "period": 0,
+            "type": {
+              "id": "1",
+              "name": "STATUS_SCHEDULED",
+              "state": "pre",
+              "completed": false,
+              "description": "Scheduled",
+              "detail": "Tue, March 21st at 8:00 PM EDT",
+              "shortDetail": "3/21 - 8:00 PM EDT"
+            }
+          },
+          "broadcasts": [],
+          "startDate": "2017-03-22T00:00Z",
+          "geoBroadcasts": []
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370801060",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370801060",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 0,
+        "type": {
+          "id": "1",
+          "name": "STATUS_SCHEDULED",
+          "state": "pre",
+          "completed": false,
+          "description": "Scheduled",
+          "detail": "Tue, March 21st at 8:00 PM EDT",
+          "shortDetail": "3/21 - 8:00 PM EDT"
+        }
+      }
+    },
+    {
+      "id": "370801143",
+      "uid": "s:1~l:14~e:370801143",
+      "date": "2017-03-22T01:00Z",
+      "season": {
+        "year": 2017,
+        "type": 2
+      },
+      "competitions": [
+        {
+          "id": "370801143",
+          "uid": "s:1~l:14~e:370801143~c:370801143",
+          "date": "2017-03-22T01:00Z",
+          "attendance": 0,
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "competitors": [
+            {
+              "id": "143",
+              "uid": "s:1~l:14~t:143",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "143",
+                "uid": "s:1~l:14~t:143",
+                "location": "San Diego",
+                "name": "Toreros",
+                "abbreviation": "USD",
+                "displayName": "Toreros",
+                "shortDisplayName": "Toreros",
+                "color": "0D1361",
+                "isActive": true,
+                "links": []
+              }
+            },
+            {
+              "id": "165",
+              "uid": "s:1~l:14~t:165",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "165",
+                "uid": "s:1~l:14~t:165",
+                "location": "Cal State Fullerton",
+                "name": "Titans",
+                "abbreviation": "CSF",
+                "displayName": "Titans",
+                "shortDisplayName": "Titans",
+                "color": "10219C",
+                "isActive": true,
+                "links": []
+              }
+            }
+          ],
+          "status": {
+            "period": 0,
+            "type": {
+              "id": "1",
+              "name": "STATUS_SCHEDULED",
+              "state": "pre",
+              "completed": false,
+              "description": "Scheduled",
+              "detail": "Tue, March 21st at 9:00 PM EDT",
+              "shortDetail": "3/21 - 9:00 PM EDT"
+            }
+          },
+          "broadcasts": [],
+          "startDate": "2017-03-22T01:00Z",
+          "geoBroadcasts": []
+        }
+      ],
+      "links": [
+        {
+          "language": "en",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/now?gameId=370801143",
+          "text": "Now",
+          "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "http://www.espn.com/college-baseball/video?gameId=370801143",
+          "text": "Videos",
+          "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "period": 0,
+        "type": {
+          "id": "1",
+          "name": "STATUS_SCHEDULED",
+          "state": "pre",
+          "completed": false,
+          "description": "Scheduled",
+          "detail": "Tue, March 21st at 9:00 PM EDT",
+          "shortDetail": "3/21 - 9:00 PM EDT"
+        }
+      }
+    }
+  ]
+}

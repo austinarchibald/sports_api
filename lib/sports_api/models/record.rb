@@ -7,6 +7,6 @@ class SportsApi::Model::Record
   end
 
   def summary
-    @summary ||= '0-0'
+    @summary
   end
 end

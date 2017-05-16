@@ -6,6 +6,8 @@ class SportsApi::Model::League
 
   attr_accessor :name,
                 :abbreviation,
+                :start_date,
+                :end_date,
                 :calendar_type,
                 :calendar,
                 :events

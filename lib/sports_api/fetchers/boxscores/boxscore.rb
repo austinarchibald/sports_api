@@ -22,6 +22,8 @@ class SportsApi::Fetcher::Boxscore
       SportsApi::Fetcher::Boxscore::NCB.find(gameid)
     when SportsApi::MLB
       SportsApi::Fetcher::Boxscore::MLB.find(gameid)
+    when SportsApi::CBASE
+      SportsApi::Fetcher::Boxscore::CBASE.find(gameid)
     end
   end
 
