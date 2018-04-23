@@ -65,6 +65,7 @@ module SportsApi::Fetcher::Score::ApiParser
         event.channel = event_json['competitions'].first['broadcasts'][0..2].map { |e| e["names"] }.join(" / ")
         event.neutral = event_json['competitions'].first['neutralSite']
         event.notes = ((event_json['competitions'].first['notes'] || []).first || {})['headline']
+        event.series_notes = ((event_json['competitions'].first['series'] || {}) || {})['summary']
       end
     end
   end

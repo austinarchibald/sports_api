@@ -23,17 +23,18 @@ describe SportsApi::Fetcher::Score::NBA do
     end
 
     describe 'pregame' do
-      let(:date) { Date.new(2015, 11, 01) }
+      let(:date) { Date.new(2018, 04, 24) }
       let(:find) { SportsApi::Fetcher::Score::NBA.find(date) }
       let(:json_stub) { StubbedJson.get('pregame.json') }
-      before { expect_any_instance_of(SportsApi::Fetcher::Score::NBA).to receive(:get).with('basketball', 'nba', dates: 20151101).and_return(json_stub) }
+      before { expect_any_instance_of(SportsApi::Fetcher::Score::NBA).to receive(:get).with('basketball', 'nba', dates: 20180424).and_return(json_stub) }
       context 'event info' do
         let(:event) { find.events.detect { |event| event.status.pregame? } }
-        it { expect(event.status.detail).to eq("11/1 - 2:00 PM EST") }
-        it { expect(event.date.to_date).to eq(Date.new(2015, 11, 01)) }
-        it { expect(event.competitors.first.location).to eq('Charlotte') }
-        it { expect(event.competitors.first.name).to eq('Hornets') }
-        it { expect(event.channel).to eq("ESPN / FSOH / Sportsnet One") }
+        it { expect(event.status.detail).to eq("4/23 - 8:00 PM EDT") }
+        it { expect(event.date.to_date).to eq(Date.new(2018, 04, 24)) }
+        it { expect(event.competitors.first.location).to eq('Minnesota') }
+        it { expect(event.competitors.first.name).to eq('Timberwolves') }
+        it { expect(event.channel).to eq("TNT / AT&TSN / FSN") }
+        it { expect(event.series_notes).to eq("HOU leads 2-1") }
       end
     end
   end
