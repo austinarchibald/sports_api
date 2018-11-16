@@ -1,4 +1,4 @@
-Dir["#{File.dirname(__FILE__)}/sports_api/**/**/*.rb"].sort_by(&:length).reject { |file| file.match(/version/) }.each { |f| require f }
+Dir["#{File.dirname(__FILE__)}/sports_api/**/**/*.rb"].sort_by(&:length).each { |f| load(f) }
 
 module SportsApi
   LEAGUES = [
