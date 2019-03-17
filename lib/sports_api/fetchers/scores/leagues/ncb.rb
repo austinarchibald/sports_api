@@ -23,8 +23,8 @@ class SportsApi::Fetcher::Score::NCB < SportsApi::Fetcher::Score
   end
 
   def json
-    @json ||= get('basketball', 'mens-college-basketball', dates: date.to_s.gsub(/[^\d]+/, '').to_i, limit: 300, groups: 50)
-    # change groups to 100 for Tourney Time
+    @json ||= get('basketball', 'mens-college-basketball', dates: date.to_s.gsub(/[^\d]+/, '').to_i, limit: 300, groups: 100)
+    # change groups to 100 for Tourney Time, 50 for regular
     # Note: Behavior of NCB api slightly different than other sports. It returns null for any date < Nov 1 2016
   end
 end
